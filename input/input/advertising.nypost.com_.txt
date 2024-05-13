@@ -1,0 +1,849 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <title>The New York Post Network </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="The New York Post Network Products and Advertising Opportunities"/>
+    <meta name="keywords" content="The New York Post Network"/>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://advertising.nypost.com/wp-content/themes/dignity-child/bootstrap/js/html5shiv.js"></script>
+      <script src="https://advertising.nypost.com/wp-content/themes/dignity-child/bootstrap/js/respond.min.js"></script>
+    <![endif]-->
+
+
+
+
+
+
+
+    <link rel="shortcut icon" href="http://advertising.nypost.com/wp-content/uploads/2020/02/newfav-2.png">	<style>
+		
+		#masthead{
+			background-color: rgba(0,0,0,.3);
+		}
+
+		.video-poster-image {
+			background:url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/bg/01.jpg') no-repeat !important;
+		}
+
+		
+		::selection {
+			background: #cc3433; /* Safari */
+			color: #fff;
+		}
+		::-moz-selection {
+			background: #cc3433; /* Firefox */
+			color: #fff;
+		}
+		.color-high{
+			color: #cc3433;
+		}
+		.footer-top a:hover{
+			color: #cc3433;
+		}
+
+		.project-info-tag > span{
+			background: #cc3433;
+		}
+		#control_buttons a:hover {
+		    color: #cc3433;
+		border:solid 3px #cc3433;
+		}
+		#item_slider .flex-direction-nav li a:hover {
+		    border: solid 2px #cc3433;
+		    color: #cc3433;
+		}
+		div#portfolio_thumbs ul li div.item_info h3 {
+			background: #cc3433;
+		}
+		div#portfolio_thumbs ul li div.item_info {
+		    background: #cc3433 url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/icons/open.png') center center no-repeat;
+		}
+
+		ul#portfolioFilter li.active-filter {
+		     background: #cc3433;
+		     border:solid 1px #cc3433;
+		}
+
+		ul#portfolioFilter li:hover {
+		     background: #cc3433;
+		     border:solid 1px #cc3433;
+		}
+		.team-info{
+			border-bottom: 8px solid #cc3433;
+		}
+		.item:hover > a > .thumb-title{
+			background: #cc3433;
+		}
+		.services-expansion{
+			background: #cc3433;
+		}
+		.liner-small > span{
+			background: #cc3433;
+		}
+
+		.liner > span{
+			background: #cc3433;
+		}
+		.promo-heading{
+			border-top: solid 1px #cc3433;
+			border-bottom: solid 1px #cc3433;
+		}
+		.contact-alert .alert{
+			background: #cc3433;
+			color: #FFF;
+			font-family: "OpenSansRegular";
+		    font-size: 20px;
+		    line-height: 31px;
+		    text-transform: capitalize;
+		}
+		.cl-effect-10 a::before {
+			background: #cc3433;
+		}
+		.pace .pace-progress {
+		  background: #cc3433;
+		  }
+		.menu a:hover, .menu a.active {
+			background:#cc3433;
+			color: #FFF;
+		}
+
+		.top-banner-caption-v1 h3 > span{
+			border-bottom: solid 4px #cc3433;
+		}
+		.top-banner-caption-v2 h3 > span{
+			color: #fff;
+			background: #cc3433;
+		}
+		.top-banner-caption-v3 h3 > span{
+			color: #fff;
+			background: #cc3433;
+		}
+		.top-banner-caption-v4 h3 > span{
+			color: #fff;
+			background: #cc3433;
+		}
+		.top-banner-caption-v5 h3 > span{
+			color: #fff;
+			background: #cc3433;
+		}
+		.top-banner-caption-v9{
+			background: #cc3433 !important;
+		}
+		.btn-rounded-color:hover{
+			color: #fff !important;
+			background: #cc3433 !important;
+			border: solid 2px #cc3433 !important;
+		}
+
+		.top-banner-caption-v6 h3 > span{
+			color: #fff;
+			background: #cc3433;
+		}
+		.btn-rounded-color2{
+			color: #fff !important;
+			background: #cc3433 !important;
+			border: solid 2px #cc3433 !important;
+		}
+		.btn-rounded-color2:hover{
+			color: #fff !important;
+			background: #121212 !important;
+			border: solid 2px #121212 !important;
+		}
+
+		/*.services-icon-wrap-yellow > .service-icon.current{
+			background: url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/triangle-yellow.png') center bottom no-repeat;
+		}*/
+		.services-icon-wrap-yellow > .service-icon.current{
+			position: relative;
+		}
+
+		.services-icon-wrap-yellow > .service-icon.current::before{
+			content: "";
+			position: absolute;
+			width: 30px;
+			height: 30px;
+			display: inline-block;
+			left: 43%;
+			bottom: -15px;
+			background: #cc3433;
+			z-index: 1;
+			transform: rotate(45deg);
+			-ms-transform: rotate(45deg); /* IE 9 */
+			-webkit-transform: rotate(45deg); /* Safari and Chrome */
+			-moz-transform: rotate(45deg); 
+			-o-transform: rotate(45deg); 
+		}
+
+		.services-icon-wrap-red > .service-icon.current{
+			background: url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/triangle-red.png') center bottom no-repeat;
+		}
+
+		.services-icon-wrap-green > .service-icon.current{
+			background: url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/triangle-green.png') center bottom no-repeat;
+		}
+
+		.services-icon-wrap-blue > .service-icon.current{
+			background: url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/triangle-blue.png') center bottom no-repeat;
+		}
+
+		.testimonial-carousel-yellow{
+			background: url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/bg/testimonials-yellow.jpg') center center repeat;
+		}
+		.testimonial-carousel-red{
+			background: url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/bg/testimonials-red.jpg') center center repeat;
+		}
+		.testimonial-carousel-green{
+			background: url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/bg/testimonials-green.jpg') center center repeat;
+		}
+		.testimonial-carousel-blue{
+			background: url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/bg/testimonials-blue.jpg') center center repeat;
+		}
+		.standard-nav li > a.highlighted{
+			color: #cc3433 !important;
+		}
+
+		.standard-nav li > a:hover{
+			color: #cc3433 !important;
+		}
+		.det-overlay{
+			background: #cc3433 url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/zoom.png') center center no-repeat;
+		}
+		.highlight-bg{background: #cc3433;}
+		.highlight-txt, .highlight-txt *{color: #cc3433 !important;}
+		.btn-rounded:hover{
+			background: #cc3433 !important;
+			border-color: #cc3433 !important;
+			color: #FFF !important;
+			-webkit-transition: all .8s linear;
+			   -moz-transition: all .8s linear;
+				-ms-transition: all .8s linear;
+				 -o-transition: all .8s linear;
+					transition: all .8s linear;
+		}
+		.btn-rounded.highlight-btn{
+			background: #cc3433 !important;
+			color: #FFF !important;
+			border: none !important;
+		}
+		.btn-rounded.highlight-btn:hover{
+			background: #121212 !important;
+			border-color: #121212 !important;
+		}
+		.border-top-medium{ border-top: #cc3433 solid 4px;}
+		.border-bottom-medium{border-bottom: #cc3433 solid 4px;}
+		.border-top-thin{ border-top: #cc3433 solid 2px;}
+		.border-bottom-thin{border-bottom: #cc3433 solid 2px;}
+		.border-top-light{ border-top: #cc3433 solid 1px;}
+		.border-bottom-light{border-bottom: #cc3433 solid 1px;}
+
+
+		.dignity-sandbox-controls a{background: #cc3433;}
+		.md-overlay{background: rgba(204,52,51,0.8) url('https://advertising.nypost.com/wp-content/themes/dignity-child/images/modal-loader.gif') center center no-repeat;}
+		
+		.highlighted .price-plan-header{background: #cc3433 !important;}
+		.price-button:hover{color: #FFF; background: #cc3433; border: #cc3433 solid 1px;}
+
+		/*calendar*/
+
+		#wp-calendar{
+			width:100%;
+			padding: 0px 0px;
+			margin:0px 0px;
+			border: #cc3433 solid 3px !important;
+			color: #FFF !important;
+			
+			
+		}
+		#calendar_wrap{
+
+			margin:0px auto;
+			margin-top: 40px;
+			
+		}
+
+		#wp-calendar caption{
+			padding: 10px 5px 10px 5px ;
+			font-size:22px;
+			color:#FFF;
+			text-transform: uppercase;
+			border-bottom: rgba(0,0,0,.2) solid 3px;
+			background: #cc3433 !important;
+			
+		}
+		#wp-calendar thead{
+			margin-bottom: 10px;
+			background: #cc3433 !important;
+		}
+		
+		#wp-calendar th{
+			color: #FFF !important;
+			
+		}
+
+		#wp-calendar th, #wp-calendar td{
+			padding: 5px;
+			text-align:center;
+			
+			background: #d3504f;
+		}
+		#wp-calendar td{
+			color:#cc3433 !important;
+		}
+
+		#wp-calendar td a{
+
+			padding: 0px;
+			border:none;
+			color:#d3504f;
+			
+		}
+		#wp-calendar td a:hover{text-shadow:0px 0px 6px #FFF; text-decoration: none;}
+		#wp-calendar td{
+			background:transparent;
+			border:none;
+			color:#CCC;
+		}
+		#wp-calendar td, table#wp-calendar th{
+			padding: 2px 0;
+		}
+
+		#searchform input[type="text"], #comments-form input[type="text"], #comments-form textarea
+		{
+		    border-radius:0px;
+		    border: 1px solid #cc3433 !important;
+		    color: #cc3433 !important;
+		    font-family: "OpenSansLight";
+		    font-size: 16px;
+		    font-weight: normal;
+		    line-height: 27px;
+		    padding: 11px 10px;
+		    width: 60%;
+		    box-shadow: none !important;
+		    margin-top: 10px;
+		}
+
+		#comments-form textarea{
+			width: 100% !important;
+		}
+
+		@-moz-document url-prefix(){
+			#searchform input[type="text"]{
+				padding: 14px 10px !important;
+			}
+			.sidebar .dignity-button {padding:14px 14px !important;}
+		}
+		#searchform .dignity-button{
+			border: 0px; 
+			margin-top: 0px;
+			border: 4px solid #cc3433;
+			background: #cc3433;
+			color: #FFF !important;
+		}
+		.sidebar ul li a:hover{color: #cc3433;}
+		.featured_attr{padding: 7px 10px; background: #cc3433; color: #FFF;}
+		.featured_attr a{color: #FFF !important;}
+		.cmntbox a:hover, .post-tags a:hover{color: #cc3433;}
+		.logged-in-as a:hover{color: #cc3433 !important;}
+		#comments-form .form-submit #post-comment:hover{background: #cc3433;}
+		.post-tags{border-top: #EEE solid 2px; padding-top: 15px;}
+		.dignity-button:hover{
+			border: 1px solid #cc3433;
+			background: #cc3433;
+			color: #FFF !important;
+		}
+		.post-type-quote { border-left: 5px solid #cc3433 !important; }
+		.post-type-link{background: #cc3433 !important;}
+	</style><style>.sizzle { width:100% !important;
+}
+
+h1.sm-logo img { height: auto !important;}
+
+h4 { font-family: oswald, sans-serif !important; 
+text-align: left !important;
+font-decoration: bold; 
+font-size: 2.5em;
+font-weight: 800;
+}
+
+h5 { font-family: oswald, sans-serif !important; 
+text-align: left !important;
+font-size: 1.8em;
+font-decoration: bold; 
+font-weight: 400;
+}
+
+
+
+
+#sizzle{
+ border:solid thin #000;
+ 
+}
+.custcopy { font-family: oswald, sans-serif !important; 
+text-align: left !important;
+font-size: 1.1em;
+line-height: 100%;
+}
+
+
+
+.menu a{
+font-family: oswald, sans-serif !important;
+font-weight:400;
+letter-spacing:0px;
+font-size:1.2em;
+}
+
+
+
+.light-heading{
+font-family:oswald, sans-serif !important;
+}
+
+.bold-heading{
+font-family:oswald, sans-serif !important;
+line-height:1.25em !important;
+}
+
+.top-row{
+color:#000;
+height:50px;
+vertical-align:middle;
+}
+
+
+
+
+</style><meta name='robots' content='noindex,nofollow' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//vjs.zencdn.net' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="The New York Post Network &raquo; Feed" href="https://advertising.nypost.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="The New York Post Network &raquo; Comments Feed" href="https://advertising.nypost.com/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/advertising.nypost.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.15"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://advertising.nypost.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-plugin-css'  href='https://advertising.nypost.com/wp-content/plugins/videojs-html5-video-player-for-wordpress/plugin-styles.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='videojs-css'  href='//vjs.zencdn.net/4.5/video-js.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/bootstrap/css/bootstrap.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-theme-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/bootstrap/css/bootstrap-theme.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='typography-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/fonts/fonts.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='preloader-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/pace.preloader.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='sliding-menu-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/slidingmenu.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='text-rotator-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/simpletextrotator.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='animated-buttons-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/animated-buttons.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-carousel-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/owl.carousel.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='owl-theme-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/owl.theme.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='prettyPhoto-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/prettyPhoto.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='magnific-popup-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/magnific-popup.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='jquery-tweet-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/jquery.tweet.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='animate-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/animate.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='effects-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/effects.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='modal-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/md_modal.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='main-retina-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/main-retina.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/style.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='main-responsive-css'  href='https://advertising.nypost.com/wp-content/themes/dignity-child/stylesheets/main-responsive.css?ver=5.4.15' type='text/css' media='all' />
+<link rel='stylesheet' id='jetpack_css-css'  href='https://advertising.nypost.com/wp-content/plugins/jetpack/css/jetpack.css?ver=5.9.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://advertising.nypost.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='//vjs.zencdn.net/4.5/video.js?ver=5.4.15'></script>
+<link rel='https://api.w.org/' href='https://advertising.nypost.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://advertising.nypost.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://advertising.nypost.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.15" />
+<link rel="canonical" href="https://advertising.nypost.com/" />
+<link rel='shortlink' href='https://wp.me/Pchoyt-1w' />
+<link rel="alternate" type="application/json+oembed" href="https://advertising.nypost.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadvertising.nypost.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://advertising.nypost.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fadvertising.nypost.com%2F&#038;format=xml" />
+
+		<script type="text/javascript"> document.createElement("video");document.createElement("audio");document.createElement("track"); </script>
+		
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="The New York Post Network" />
+<meta property="og:description" content="The New York Post Network Products and Advertising Opportunities" />
+<meta property="og:url" content="https://advertising.nypost.com/" />
+<meta property="og:site_name" content="The New York Post Network" />
+<meta property="og:image" content="https://s0.wp.com/i/blank.jpg" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:text:title" content="One Page" />
+<meta name="twitter:image" content="https://advertising.nypost.com/wp-content/uploads/2020/02/ms-icon-150x150.png" />
+<meta name="twitter:card" content="summary" />
+<link rel="icon" href="https://advertising.nypost.com/wp-content/uploads/2020/02/ms-icon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://advertising.nypost.com/wp-content/uploads/2020/02/ms-icon-150x150.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://advertising.nypost.com/wp-content/uploads/2020/02/ms-icon-150x150.png" />
+<meta name="msapplication-TileImage" content="https://advertising.nypost.com/wp-content/uploads/2020/02/ms-icon-150x150.png" />
+<script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/gsap/latest/TweenMax.min.js"></script>
+     <script type="text/javascript" src="https://advertising.nypost.com/wp-content/themes/dignity/javascripts/section-slider.js"></script>
+</head>
+
+<body class="home page-template page-template-the-onepage page-template-the-onepage-php page page-id-94">
+
+        <!-- Sliding Navigation : starts -->
+    <nav class="menu " id="sm">
+        <div class="sm-wrap">
+            <h1 class="sm-logo">
+                                <img src="http://advertising.nypost.com/wp-content/uploads/2014/11/nyplogo-header.png" style="height: 40px;" alt="The New York Post Network" title="The New York Post Network">
+                            </h1>
+            <i class="icon-remove menu-close"></i>
+            <div id="dignity-sliding-navi" class="clearfix dignity-sliding-nav  front-page">
+<a href="#home"  class="scroll is_onepage" data-soffset="0">Home</a><a href="https://advertising.nypost.com/new-york-post/"  class="not_onepage" data-soffset="0">New York Post</a><a href="https://advertising.nypost.com/page-six/"  class="not_onepage" data-soffset="0">Page Six</a><a href="https://advertising.nypost.com/decider/"  class="not_onepage" data-soffset="0">Decider</a><a href="https://advertising.nypost.com/alexa/"  class="not_onepage" data-soffset="0">Alexa</a><a href="https://advertising.nypost.com/post-studios/"  class="not_onepage" data-soffset="0">Post Studios</a><a href="https://advertising.nypost.com/products/"  class="not_onepage" data-soffset="0">Products</a><a href="#portfolio"  class="scroll is_onepage" data-soffset="0">Portfolio</a><a href="/digital-specs/"  class="not_onepage" data-soffset="0">Digital Specs</a><a href="https://advertising.nypost.com/digital-guidelines/"  class="not_onepage" data-soffset="0">Digital Guidelines</a><a href="/print-specs/"  class="not_onepage" data-soffset="0">Print Specs</a><a href="https://advertising.nypost.com/print-guidelines/"  class="not_onepage" data-soffset="0">Print Guidelines</a><a href="https://advertising.nypost.com/#contact"  class="not_onepage" data-soffset="0">Contact</a></div>
+        </div>
+        <!-- Navigation Trigger Button -->
+        <div id="sm-trigger"></div>
+    </nav>
+    <!-- Sliding Navigation : ends -->
+    
+
+    <!-- Master Wrap : starts -->
+    <section id="mastwrap" class="sliding">
+
+
+            <!-- masthead : starts -->
+        <header id="masthead" class="clearfix trans-header">
+            <h1 class="logo">
+                                <img src="http://advertising.nypost.com/wp-content/uploads/2014/11/nyplogo-header.png" style="height: 30px;" alt="The New York Post Network" title="The New York Post Network">
+                            </h1>
+        </header>
+        <!-- masthead : ends -->
+        
+  
+      	    <!-- top-banner (variant2 only) : starts -->
+  		<div id="home"  class="dignity-page-section splash-page   mask-bg">
+  			<div class="vertical-center regular-layout">
+  				<p><div class="clearfix"></div>
+          <section class="inner-section clearfix align-center add-top-small" ><div class="container"><span class="wrap-txt white-txt light-heading uppercase medium-txt border-bottom-medium pad-bottom-small" >Welcome to The Post Digital Network</span></div></section>
+          <div class="clearfix"></div><div class="clearfix"></div>
+          <section class="inner-section clearfix " ><div class="container"><div class="row " ><div class="layout-column col-md-12 align-center" ><div class="text-rotator-fade white-txt bold-heading x-large-txt uppercase align-center" ><span class="rotate">news, gossip, sports, entertainment, business, scandal,politics, luxury, fashion</span></div></div></div></div></section>
+          <div class="clearfix"></div></p>
+  			</div>
+  		</div>
+  		
+      	        <section id="about-2-2" class="dignity-page-section page-section second-page " style="background: #FFFFFF;">
+        <div id="aboutnyp">
+<h1>The Post Digital Network</h1>
+<div class="shortbar"></div>
+<p>The Post Digital Network provides readers the best in News, Pop Culture and Entertainment stories like only the Post can &#8211; with wit, irreverence and authority.  We continue to innovate and grow our family of sites and platforms to bring people the content they want, when and where they want it. Properties include, <a target="_blank" href="http://www.nypost.com" rel="noopener noreferrer">NYPost.com</a>, <a target="_blank" href="http://www.pagesix.com" rel="noopener noreferrer">PageSix.com</a> and <a target="_blank" href="http://www.decider.com" rel="noopener noreferrer">Decider.com</a>.</p>
+<p><span style="color:#cc3333; font-weight:bold;"><em>New!</em></span> Learn more about our self-service ad platform.<br />
+<a href="https://www.google.com/url?q=https://nypostadmanager.com/&amp;sa=D&amp;source=hangouts&amp;ust=1634320810818000&amp;usg=AOvVaw2_lRWiYWabkIGZkSXWuoxe" style="display:block; background-color:#cc3333; margin:0 auto; width:150px; margin-top:10px; color:#fff !important; font-size:15px; padding:5px;">GET STARTED</a></p>
+<div class="texturebar"></div>
+<p><!--
+
+
+<h2>Growth of <span class="redhighlight">2%</span> year-over-year.</h2>
+
+
+--></p>
+<ul>
+<li>Unique Visitors</li>
+<li>93.2 MM</li>
+<li>Page Views</li>
+<li>485 MM</li>
+<p>Source: ComScore Media Metrix June 2023<br />
+(New York Post Network)</ul>
+<div class="preview-image" style="max-width:632px !important;"><img class="nypostimage" src="/wp-content/uploads/2019/09/nyp-main-v3@2x@2x.jpg"></div>
+<div class="texturebar"></div>
+</div>
+      </section>
+          <section id="new-york-post-front" class="dignity-page-section page-section " style="background: #333333;">
+        <div class="vertical-wrapper nypost-grey-bg " id="nypost-wrapper">
+<div id="nypost-logo"></div>
+<div class="nypost-vertical-text">News Doesn&#8217;t Have To Be Boring To Be News.</div>
+<p><a href="/new-york-post" class="vertical-button" id="nypost-button">Details &amp; Specs</a>
+</div>
+      </section>
+          <section id="page-six-front" class="dignity-page-section page-section " style="background: #000000;">
+        <div id="pagesix-wrapper" class="vertical-wrapper">
+<div id="pagesix-logo"></div>
+<div class="vertical-text">THE AUTHORITY ON CELEBRITY NEWS AND HIGH SOCIETY GOSSIP.</div>
+<p><a href="/page-six" class="vertical-button"  id="pagesix-button">Details &amp; Specs</a></p>
+</div>
+      </section>
+          <section id="decider-front" class="dignity-page-section page-section " style="background: #31312f;">
+        <div id="decider-wrapper" class="vertical-wrapper">
+<div id="decider-logo"></div>
+<div class="vertical-text">helpING tHE on-demand generation discover the best streaming content.</div>
+<p><a href="/decider" class="vertical-button" id="decider-button">Details &amp; Specs</a></div>
+      </section>
+          <section id="alexa-front" class="dignity-page-section page-section " style="background: #e7e7e7;">
+        <div id="alexa-wrapper" class="vertical-wrapper">
+<div id="alexa-logo">
+<div class="alexa-logo-center"></div>
+</div>
+<div class="vertical-text">THE luxury lifestyle supplement from the New York Post.</div>
+<p><a href="/alexa" class="vertical-button"  id="alexa-button">Details &amp; Specs</a></div>
+      </section>
+          <section id="post-studios-front" class="dignity-page-section page-section " style="background: #8d8d8d;">
+        <div id="poststudios-wrapper" class="vertical-wrapper">
+<div id="poststudios-logo"></div>
+<div class="vertical-text">Custom Creative Content Solutions.</div>
+<p><a href="http://advertising.nypost.com/post-studios/" class="vertical-button"  id="poststudios-button">Learn More</a>
+</div>
+      </section>
+          <section id="products-front" class="dignity-page-section page-section " style="background: #FFFFFF;">
+        <div id="products-wrapper" class="vertical-wrapper">
+<h1>AD PRODUCTS</h1>
+<div class="vertical-text">We help brands tell stories by reaching audienceS IN MANY different ways.</div>
+<div class="products-button-wrapper">
+<a href="/products" class="vertical-button"  id="productsfront-button">Details &#038; Specs</a></p>
+</div>
+</div>
+      </section>
+          <section id="portfolio" class="dignity-page-section page-section " style="background: #FFFFFF;">
+        <div id="nypost-samples">
+<div class="clearfix"></div>
+          <section class="inner-section clearfix add-top" ><div class="container"><div class="row " ><div class="layout-column col-md-12 align-center" ><h1 class="main-heading  dark-txt" >Portfolio</h1>
+          <div class="liner"><span></span></div></div></div><div class="row " ><div class="layout-column col-md-12 align-center" ><p class="promo-text  dark-txt" >Project Examples</p>
+          <article class="clearfix liner-division-light"></article></div></div></div></section>
+          <div class="clearfix"></div>
+<div class="products-button-wrapper">
+<div class="mainpage-sample setinline"><a href="/desktop-takeovers/"><img class="aligncenter size-full wp-image-1551" alt="netflix evil genius" src="/wp-content/uploads/2019/09/pto-teaser.jpg" width="293" height="293" /></p>
+<h1>Custom Takeovers</h1>
+<p>Netflix &#8211; Evil Genius</a></p>
+</div>
+<div class="mainpage-sample setinline"><a href="/mobile-ads/"><img src="/wp-content/uploads/2019/09/mobile-scroll-teaser.jpg" alt="roswell new mexico" width="293" height="293" class="aligncenter size-full wp-image-1552" /></p>
+<h1>Mobile Ads</h1>
+<p>The 100</a></p>
+</div>
+<div class="mainpage-sample setinline"><a href="/roadblocks/"><img src="/wp-content/uploads/2019/09/rb-teaser.jpg" alt="bloomingdales" width="293" height="293" class="aligncenter size-full wp-image-1556" /></p>
+<h1>Roadblocks</h1>
+<p>Bloomingdales</a></p>
+</div>
+<div class="mainpage-sample setinline"><a href="/dispatch/"><img src="/wp-content/uploads/2019/09/dispatch-teaser.jpg" alt="flack" width="293" height="293" class="aligncenter size-full wp-image-1554" /></p>
+<h1>Dispatch</h1>
+<p>Pop TV Flack</a></p>
+</div>
+<div class="mainpage-sample setinline"><a href="/editorial-sponsorships/"><img src="/wp-content/uploads/2019/09/edit-teaser.jpg" alt="mercedes" width="293" height="293" class="aligncenter size-full wp-image-1557" /></p>
+<h1>Editorial Sponsorships</h1>
+<p>Mercedes-Benz</a></p>
+</div>
+<div class="mainpage-sample setinline"><a href="/cover-wraps/"><img src="/wp-content/uploads/2019/09/cw-teaser.jpg" alt="americaneagle" width="293" height="293" class="aligncenter size-full wp-image-1559" /></p>
+<h1>Cover Wraps</h1>
+<p>Pretty Woman The Musical</a></p>
+</div>
+<div class="mainpage-sample setinline"><a href="/custom-print-ads/"><img src="http://advertising.nypost.com/wp-content/uploads/2014/10/barcardi.png" alt="barcardi" width="293" height="293" class="aligncenter size-full wp-image-1558" srcset="https://advertising.nypost.com/wp-content/uploads/2014/10/barcardi.png 293w, https://advertising.nypost.com/wp-content/uploads/2014/10/barcardi-150x150.png 150w" sizes="(max-width: 293px) 100vw, 293px" /></p>
+<h1>Custom Print Ads</h1>
+<p>Bacardi</a></p>
+</div>
+</div>
+</div>
+<div id="contactpage" style="height:0px !important;"><a name="contact"></a>
+</div>
+      </section>
+    
+
+
+	<!-- page-section : starts -->
+	<footer id="mastfoot" class="mastfoot">
+				<div class="clearfix" style="background: #2f3133">
+			<div class="footer-contact-wrapper">
+<h1 style="color:#fff !important;">Advertising Contacts</h1>
+<p style="text-align:center; background-color:#404447; color:#fff !important; padding:5px 0px;"><span style="color:#cc3333; font-weight:bold;"><em>New</em></span> Learn more about our self-service ad platform.<br/><a href="https://www.google.com/url?q=https://nypostadmanager.com/&sa=D&source=hangouts&ust=1634320810818000&usg=AOvVaw2_lRWiYWabkIGZkSXWuoxe" style="display:block; background-color:#cc3333; margin:0 auto; width:150px; margin-top:10px; color:#fff !important; font-size:15px; padding:5px;">GET STARTED</a></p>
+<!--<div class="setinline footer-contact"><h1>National - Print & Digital</h1><p>Scott Lareau</p><p><a href="mailto:slareau@nypost.com">slareau@nypost.com</a></p></div>-->
+<div class="setinline footer-contact"><h1>Programmatic & Partnerships</h1><p>Amanda Gomez</p><p><a href="mailto:agomez@nypost.com">agomez@nypost.com</a></p></div>
+<div class="setinline footer-contact"><h1>EVP Print Revenue/Publisher Alexa</h1><p>Patrick Judge</p><p><a href="mailto:pjudge@nypost.com">pjudge@nypost.com</a></p></div>
+<div class="setinline footer-contact"><h1>Advertsing</h1><p>Caitlin Lloyd</p><p><a href="mailto:clloyd@nypost.com">clloyd@nypost.com</a></p></div>
+<div class="setinline footer-contact"><h1>Post Studios</h1><p><a href="mailto:studios@nypost.com">studios@nypost.com</a></p></div>
+</div>		</div>
+		
+		<!-- inner-section : starts -->
+		<section class="inner-section footer-bottom">
+
+			<!-- container : starts -->
+			<section class="container">
+		
+			<div class="row">
+				<article class="col-md-6 text-left">
+					<h3>@twitter</h3>
+				              <article id="ticker" class="tweets-ticker query"></article>	
+				</article>
+				<article class="col-md-6 text-right">
+					<ul class="footer-social">
+							                    <li><a href="mailto:studios@nypost.com" target="_blank"><img alt="The New York Post Network"  src="https://advertising.nypost.com/wp-content/themes/dignity-child/images/social_icons/email.png"/></a></li>
+	                    	                    <li><a href="https://twitter.com/nypost" target="_blank"><img alt="The New York Post Network"  src="https://advertising.nypost.com/wp-content/themes/dignity-child/images/social_icons/twitter.png"/></a></li>
+	                    	                    <li><a href="https://www.facebook.com/NYPost" target="_blank"><img alt="The New York Post Network"  src="https://advertising.nypost.com/wp-content/themes/dignity-child/images/social_icons/facebook.png"/></a></li>
+	                    						
+					</ul>
+					<div class="credits">
+						<p>NYPost.com <br/>Copyright © 2021</p>
+					</div>
+				</article>
+			</div>
+
+			</section>
+
+		</section>
+		<!-- inner-section : ends -->
+
+
+	</footer>
+	<!-- page-section : ends -->
+
+
+
+</section>
+<!-- Master Wrap : ends -->
+
+	<button class="md-trigger launch_modal hidden" data-modal="modal-5">Launch modal</button>
+    <div class="md-modal md-effect-5" id="modal-5">
+		<div class="md-content">
+			<h3>Thanks For Reaching Out!</h3>
+			<div>
+				<p>We will review your submission.</p>
+				<div class="clear add-top-small"></div>
+				<button class="md-close button dignity-button">Close</button>
+			</div>
+		</div>
+	</div>
+	<div class="md-overlay"></div>
+
+    
+
+	<style>.sizzle { width:100% !important;
+}
+
+h1.sm-logo img { height: auto !important;}
+
+h4 { font-family: oswald, sans-serif !important; 
+text-align: left !important;
+font-decoration: bold; 
+font-size: 2.5em;
+font-weight: 800;
+}
+
+h5 { font-family: oswald, sans-serif !important; 
+text-align: left !important;
+font-size: 1.8em;
+font-decoration: bold; 
+font-weight: 400;
+}
+
+
+
+
+#sizzle{
+ border:solid thin #000;
+ 
+}
+.custcopy { font-family: oswald, sans-serif !important; 
+text-align: left !important;
+font-size: 1.1em;
+line-height: 100%;
+}
+
+
+
+.menu a{
+font-family: oswald, sans-serif !important;
+font-weight:400;
+letter-spacing:0px;
+font-size:1.2em;
+}
+
+
+
+.light-heading{
+font-family:oswald, sans-serif !important;
+}
+
+.bold-heading{
+font-family:oswald, sans-serif !important;
+line-height:1.25em !important;
+}
+
+.top-row{
+color:#000;
+height:50px;
+vertical-align:middle;
+}
+
+
+
+
+</style>	<div style="display:none">
+	</div>
+<script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=202418'></script>
+<script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2024Mayaa'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var WPGroHo = {"my_hash":""};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/plugins/jetpack/modules/wpgroho.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/bootstrap/js/bootstrap.min.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/modernizr.custom.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/jquery.easing.1.3.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/pace.min.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/retina.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/classie.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/modalEffects.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/slidingmenu.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/jquery.simple-text-rotator.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/waypoints.min.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/jquery.touchSwipe.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/jquery.sudoSlider.designova.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/owl.carousel.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/jquery.mixitup.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/flexslider.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/prettyPhoto.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/jquery.magnific-popup.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/jquery.tweet.js?ver=5.4.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var tweetobj = {"twitter_id":"nypost","path":"https:\/\/advertising.nypost.com\/wp-content\/themes\/dignity-child"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/init-tweet.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/jquery.stellar.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/smooth-scroll.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/jquery.appear.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/mb.bgndGallery.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/simple-text-rotator-init.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/sudoslider-touch-init.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/portfolio.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/animate-init.js?ver=5.4.15'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var slider_options = {"slides":["http:\/\/advertising.nypost.com\/wp-content\/uploads\/2014\/10\/slider1b.jpg","http:\/\/advertising.nypost.com\/wp-content\/uploads\/2014\/10\/slider2b.jpg","http:\/\/advertising.nypost.com\/wp-content\/uploads\/2014\/10\/slider3b.jpg","http:\/\/advertising.nypost.com\/wp-content\/uploads\/2014\/10\/slider4b.jpg","http:\/\/advertising.nypost.com\/wp-content\/uploads\/2014\/10\/slider5b.jpg"],"fx":"fade"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/bgslider-init.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/form-validation.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-content/themes/dignity-child/javascripts/main.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://advertising.nypost.com/wp-includes/js/wp-embed.min.js?ver=5.4.15'></script>
+<script type='text/javascript' src='https://stats.wp.com/e-202418.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:5.9.2',blog:'181462001',post:'94',tz:'0',srv:'advertising.nypost.com'} ]);
+	_stq.push([ 'clickTrackerInit', '181462001', '94' ]);
+</script>
+	
+	
+
+	
+</body>
+</html>

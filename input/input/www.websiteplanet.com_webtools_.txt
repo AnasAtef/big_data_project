@@ -1,0 +1,1145 @@
+<!DOCTYPE html>
+<html lang="en" country="EG"  >
+    <head>
+    	<!-- 
+                           ++++++++                                                                                                                   
+                       ++++++++++++++++                                                                                                               
+                     ++++++++++++++++++++                                                                                                             
+                    ++++++++++++++++++++++            ++                                                                                              
+                  ++++++++++++++++++++++++++     +++++++++++                                                                                          
+                 ++++++++++++++++++++++++++++   ++++++++++++      +++    ++   +++  +++++++++  ++++++++    +++++++   +++  ++++++++++  ++++++++         
+                ++++++++++++++++++++++++++++++  +++++++++++++      +++  ++++  +++  +++++++++  +++++++++   ++++++++  +++  ++++++++++  ++++++++         
+               ++++++++++++++++++++++++++++++++  +       ++++      +++  ++++  +++  ++++       +++   +++  ++++  ++   +++     ++++     +++              
+               ++++++++++++++++++++++++++++++++         ++++       +++  ++++  +++  +++        +++   +++  +++        +++     +++      +++              
+              ++++++++++++++++++++++++++++++++++       +++++       +++++++++ +++   ++++++++   +++++++++  ++++++     +++     +++      +++++++          
+             ++++++++++++++++++++++++++++++++++++     +++++         ++++++++++++   ++++++++   ++++++++    +++++++   +++     +++      +++++++          
+             ++++++++++++++++++++++++++++++++++++    +++++          ++++++++++++   ++++++++   +++++++++    +++++++  +++     +++      +++++++          
+             ++++++++++++++++++++++++++++++++++++  ++++++           +++++ ++++++   +++        +++   +++        +++  +++     +++      +++              
+            ++++++++++++++++++++++++++++++++++++  ++++++             ++++  ++++    +++        +++   +++        +++  +++     +++      +++              
+            +++++++++++++++++++++++  +++++++++  ++++++               ++++  ++++    ++++++++   +++++++++  +++++++++  +++     +++      ++++++++         
+            ++++++++++++++++++++        ++++   ++++++                ++++  ++++    +++++++++  +++++++++  ++++++++   +++     +++      ++++++++         
+           +++++++++++++++++++  +++      +   ++++++                  +++    ++     +++++++++  +++++++     ++++++    +++     +++      ++++++++         
+           +++++++++++++++++    +++        ++++++++                                                                                                   
+           ++++++++++++++       ++++     ++++++++++                                                                                                   
+           +++++++++++++        ++++  +++++++++++++                                                                                                   
+           ++++++++++++          ++++++++++++++++++                                                                                                   
+           +++++++++++           +++++++++ ++++++++                                                                                                   
+           +++++++++++            ++++++    +++++++                                                                                                   
+          ++++++++++++            ++++      ++++++                  ++++++     ++            ++      +++    +++  ++++++++   +++++++++                 
+         ++++++++++++              +++      ++++++                  ++++++++  +++           +++      +++    +++  ++++++++   +++++++++                 
+       +++++++++++++++             ++++    +++++++                  ++++++++  +++           ++++     ++++   +++  ++++++++   +++++++++                 
+      ++++++++++++++++             ++++    +++++++                  +++  ++++ +++           ++++     +++++  +++  +++           +++                    
+     +++++   +++++++++              ++++  +++++++                   +++   +++ +++          ++++++    +++++  +++  +++           +++                    
+    +++++    ++++++++++             ++++ ++++++++                   +++  ++++ +++          ++++++    ++++++ +++  ++++++++      +++                    
+   +++++      +++++++++              +++++++++++                    ++++++++  +++         +++++++    ++++++++++  ++++++++      +++                    
+  +++++       ++++++++++             +++++++++++                    +++++++   +++         +++ ++++   +++ ++++++  ++++++++      +++                    
+  +++          ++++++++++          ++++++++++++                     +++       +++         +++  +++   +++ ++++++  +++           +++                    
+ ++++      ++   ++++++++++      ++++++++++++++                      +++       +++        ++++  +++   +++  +++++  +++           +++                    
+ +++++++++++++   ++++++++++++++++++++++++++++                       +++       +++++++++  +++    +++  +++   ++++  ++++++++      +++                    
+  ++++++++++++    ++++++++++++++++++++++++++                        +++       +++++++++  +++    +++  +++   ++++  ++++++++      +++                    
+   ++++++++++      ++++++++++++++++++++++++                         +++        ++++++++ +++     +++  +++    +++  ++++++++      +++                    
+                    ++++++++++++++++++++++                                                                                                            
+                      ++++++++++++++++++                                                                                                              
+                         +++++++++++++                                                                                                                
+                            ++++++                                                                                                                    
+            
+
+Looking for free web tools to improve your website? Check out our awesome directory!
+https://www.websiteplanet.com/webtools/
+
+
+__        __   _     ____               __  __           _        _____                
+\ \      / /__| |__ |  _ \  _____   __ |  \/  | __ _  __| | ___  | ____|__ _ ___ _   _ 
+ \ \ /\ / / _ \ '_ \| | | |/ _ \ \ / / | |\/| |/ _` |/ _` |/ _ \ |  _| / _` / __| | | |
+  \ V  V /  __/ |_) | |_| |  __/\ V /  | |  | | (_| | (_| |  __/ | |__| (_| \__ \ |_| |
+   \_/\_/ \___|_.__/|____/ \___| \_/   |_|  |_|\__,_|\__,_|\___| |_____\__,_|___/\__, |
+                                                                                 |___/ 
+ -->   		<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"e4b2dce614",applicationID:"1110089297"};;/*! For license information please see nr-loader-rum-1.258.0.min.js.LICENSE.txt */
+(()=>{var e,t,r={234:(e,t,r)=>{"use strict";r.d(t,{P_:()=>v,Mt:()=>b,C5:()=>s,OP:()=>k,lF:()=>P,Yu:()=>_,Dg:()=>m,CX:()=>c,GE:()=>w,sU:()=>N});var n=r(8632),i=r(9567);const o={beacon:n.ce.beacon,errorBeacon:n.ce.errorBeacon,licenseKey:void 0,applicationID:void 0,sa:void 0,queueTime:void 0,applicationTime:void 0,ttGuid:void 0,user:void 0,account:void 0,product:void 0,extra:void 0,jsAttributes:{},userAttributes:void 0,atts:void 0,transactionName:void 0,tNamePlain:void 0},a={};function s(e){if(!e)throw new Error("All info objects require an agent identifier!");if(!a[e])throw new Error("Info for ".concat(e," was never set"));return a[e]}function c(e,t){if(!e)throw new Error("All info objects require an agent identifier!");a[e]=(0,i.D)(t,o);const r=(0,n.ek)(e);r&&(r.info=a[e])}const u=e=>{if(!e||"string"!=typeof e)return!1;try{document.createDocumentFragment().querySelector(e)}catch{return!1}return!0};var d=r(7056),l=r(50);const f="[data-nr-mask]",g=()=>{const e={mask_selector:"*",block_selector:"[data-nr-block]",mask_input_options:{color:!1,date:!1,"datetime-local":!1,email:!1,month:!1,number:!1,range:!1,search:!1,tel:!1,text:!1,time:!1,url:!1,week:!1,textarea:!1,select:!1,password:!0}};return{feature_flags:[],proxy:{assets:void 0,beacon:void 0},privacy:{cookies_enabled:!0},ajax:{deny_list:void 0,block_internal:!0,enabled:!0,harvestTimeSeconds:10,autoStart:!0},distributed_tracing:{enabled:void 0,exclude_newrelic_header:void 0,cors_use_newrelic_header:void 0,cors_use_tracecontext_headers:void 0,allowed_origins:void 0},session:{expiresMs:d.oD,inactiveMs:d.Hb},ssl:void 0,obfuscate:void 0,jserrors:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},metrics:{enabled:!0,autoStart:!0},page_action:{enabled:!0,harvestTimeSeconds:30,autoStart:!0},page_view_event:{enabled:!0,autoStart:!0},page_view_timing:{enabled:!0,harvestTimeSeconds:30,long_task:!1,autoStart:!0},session_trace:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},harvest:{tooManyRequestsDelay:60},session_replay:{autoStart:!0,enabled:!1,harvestTimeSeconds:60,preload:!1,sampling_rate:10,error_sampling_rate:100,collect_fonts:!1,inline_images:!1,inline_stylesheet:!0,mask_all_inputs:!0,get mask_text_selector(){return e.mask_selector},set mask_text_selector(t){u(t)?e.mask_selector="".concat(t,",").concat(f):""===t||null===t?e.mask_selector=f:(0,l.Z)("An invalid session_replay.mask_selector was provided. '*' will be used.",t)},get block_class(){return"nr-block"},get ignore_class(){return"nr-ignore"},get mask_text_class(){return"nr-mask"},get block_selector(){return e.block_selector},set block_selector(t){u(t)?e.block_selector+=",".concat(t):""!==t&&(0,l.Z)("An invalid session_replay.block_selector was provided and will not be used",t)},get mask_input_options(){return e.mask_input_options},set mask_input_options(t){t&&"object"==typeof t?e.mask_input_options={...t,password:!0}:(0,l.Z)("An invalid session_replay.mask_input_option was provided and will not be used",t)}},spa:{enabled:!0,harvestTimeSeconds:10,autoStart:!0},soft_navigations:{enabled:!0,harvestTimeSeconds:10,autoStart:!0}}},p={},h="All configuration objects require an agent identifier!";function v(e){if(!e)throw new Error(h);if(!p[e])throw new Error("Configuration for ".concat(e," was never set"));return p[e]}function m(e,t){if(!e)throw new Error(h);p[e]=(0,i.D)(t,g());const r=(0,n.ek)(e);r&&(r.init=p[e])}function b(e,t){if(!e)throw new Error(h);var r=v(e);if(r){for(var n=t.split("."),i=0;i<n.length-1;i++)if("object"!=typeof(r=r[n[i]]))return;r=r[n[n.length-1]]}return r}const y={accountID:void 0,trustKey:void 0,agentID:void 0,licenseKey:void 0,applicationID:void 0,xpid:void 0},A={};function w(e,t){if(!e)throw new Error("All loader-config objects require an agent identifier!");A[e]=(0,i.D)(t,y);const r=(0,n.ek)(e);r&&(r.loader_config=A[e])}const _=(0,n.mF)().o;var E=r(385),x=r(6818);const D={buildEnv:x.Re,distMethod:x.gF,version:x.q4,originTime:E.sK},R={customTransaction:void 0,disabled:!1,isolatedBacklog:!1,loaderType:void 0,maxBytes:3e4,onerror:void 0,origin:""+E._A.location,ptid:void 0,releaseIds:{},appMetadata:{},session:void 0,denyList:void 0,harvestCount:0,timeKeeper:void 0},S={};function k(e){if(!e)throw new Error("All runtime objects require an agent identifier!");if(!S[e])throw new Error("Runtime for ".concat(e," was never set"));return S[e]}function N(e,t){if(!e)throw new Error("All runtime objects require an agent identifier!");S[e]={...(0,i.D)(t,R),...D};const r=(0,n.ek)(e);r&&(r.runtime=S[e])}function P(e){return function(e){try{const t=s(e);return!!t.licenseKey&&!!t.errorBeacon&&!!t.applicationID}catch(e){return!1}}(e)}},9567:(e,t,r)=>{"use strict";r.d(t,{D:()=>i});var n=r(50);function i(e,t){try{if(!e||"object"!=typeof e)return(0,n.Z)("Setting a Configurable requires an object as input");if(!t||"object"!=typeof t)return(0,n.Z)("Setting a Configurable requires a model to set its initial properties");const r=Object.create(Object.getPrototypeOf(t),Object.getOwnPropertyDescriptors(t)),o=0===Object.keys(r).length?e:r;for(let a in o)if(void 0!==e[a])try{if(null===e[a]){r[a]=null;continue}Array.isArray(e[a])&&Array.isArray(t[a])?r[a]=Array.from(new Set([...e[a],...t[a]])):"object"==typeof e[a]&&"object"==typeof t[a]?r[a]=i(e[a],t[a]):r[a]=e[a]}catch(e){(0,n.Z)("An error occurred while setting a property of a Configurable",e)}return r}catch(e){(0,n.Z)("An error occured while setting a Configurable",e)}}},6818:(e,t,r)=>{"use strict";r.d(t,{Re:()=>i,gF:()=>o,q4:()=>n});const n="1.258.0",i="PROD",o="CDN"},385:(e,t,r)=>{"use strict";r.d(t,{Nk:()=>d,Tt:()=>s,_A:()=>o,iS:()=>a,il:()=>n,sK:()=>l,ux:()=>c,v6:()=>i,w1:()=>u});const n="undefined"!=typeof window&&!!window.document,i="undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self.navigator instanceof WorkerNavigator||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis.navigator instanceof WorkerNavigator),o=n?window:"undefined"!=typeof WorkerGlobalScope&&("undefined"!=typeof self&&self instanceof WorkerGlobalScope&&self||"undefined"!=typeof globalThis&&globalThis instanceof WorkerGlobalScope&&globalThis),a=Boolean("hidden"===o?.document?.visibilityState),s=/iPad|iPhone|iPod/.test(o.navigator?.userAgent),c=s&&"undefined"==typeof SharedWorker,u=((()=>{const e=o.navigator?.userAgent?.match(/Firefox[/\s](\d+\.\d+)/);Array.isArray(e)&&e.length>=2&&e[1]})(),Boolean(n&&window.document.documentMode)),d=!!o.navigator?.sendBeacon,l=Math.floor(Date.now()-performance.now())},1117:(e,t,r)=>{"use strict";r.d(t,{w:()=>o});var n=r(50);const i={agentIdentifier:"",ee:void 0};class o{constructor(e){try{if("object"!=typeof e)return(0,n.Z)("shared context requires an object as input");this.sharedContext={},Object.assign(this.sharedContext,i),Object.entries(e).forEach((e=>{let[t,r]=e;Object.keys(i).includes(t)&&(this.sharedContext[t]=r)}))}catch(e){(0,n.Z)("An error occurred while setting SharedContext",e)}}}},8e3:(e,t,r)=>{"use strict";r.d(t,{LP:()=>l,RP:()=>c,o5:()=>u});var n=r(8325),i=r(1284),o=r(4322),a=r(3325);const s={};function c(e,t){const r={staged:!1,priority:a.p[t]||0};d(e),s[e].get(t)||s[e].set(t,r)}function u(e,t){d(e),s[e].get(t)&&s[e].delete(t),s[e].size&&f(e)}function d(e){if(!e)throw new Error("agentIdentifier required");s[e]||(s[e]=new Map)}function l(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:"",t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:"feature",r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if(d(e),!e||!s[e].get(t)||r)return g(e,t);s[e].get(t).staged=!0,f(e)}function f(e){const t=[...s[e]];t.every((e=>{let[t,r]=e;return r.staged}))&&(t.sort(((e,t)=>e[1].priority-t[1].priority)),t.forEach((t=>{let[r]=t;s[e].delete(r),g(e,r)})))}function g(e,t){const r=e?n.ee.get(e):n.ee,a=o.X.handlers;if(r.backlog&&a){var s=r.backlog[t],c=a[t];if(c){for(var u=0;s&&u<s.length;++u)p(s[u],c);(0,i.D)(c,(function(e,t){(0,i.D)(t,(function(t,r){r[0].on(e,r[1])}))}))}r.isolatedBacklog||delete a[t],r.backlog[t]=null,r.emit("drain-"+t,[])}}function p(e,t){var r=e[1];(0,i.D)(t[r],(function(t,r){var n=e[0];if(r[0]===n){var i=r[1],o=e[3],a=e[2];i.apply(o,a)}}))}},8325:(e,t,r)=>{"use strict";r.d(t,{A:()=>c,ee:()=>u});var n=r(8632),i=r(2210),o=r(234);class a{constructor(e){this.contextId=e}}var s=r(3117);const c="nr@context:".concat(s.a),u=function e(t,r){var n={},s={},d={},l=!1;try{l=16===r.length&&(0,o.OP)(r).isolatedBacklog}catch(e){}var f={on:p,addEventListener:p,removeEventListener:function(e,t){var r=n[e];if(!r)return;for(var i=0;i<r.length;i++)r[i]===t&&r.splice(i,1)},emit:function(e,r,n,i,o){!1!==o&&(o=!0);if(u.aborted&&!i)return;t&&o&&t.emit(e,r,n);for(var a=g(n),c=h(e),d=c.length,l=0;l<d;l++)c[l].apply(a,r);var p=m()[s[e]];p&&p.push([f,e,r,a]);return a},get:v,listeners:h,context:g,buffer:function(e,t){const r=m();if(t=t||"feature",f.aborted)return;Object.entries(e||{}).forEach((e=>{let[n,i]=e;s[i]=t,t in r||(r[t]=[])}))},abort:function(){f._aborted=!0,Object.keys(f.backlog).forEach((e=>{delete f.backlog[e]}))},isBuffering:function(e){return!!m()[s[e]]},debugId:r,backlog:l?{}:t&&"object"==typeof t.backlog?t.backlog:{},isolatedBacklog:l};return Object.defineProperty(f,"aborted",{get:()=>{let e=f._aborted||!1;return e||(t&&(e=t.aborted),e)}}),f;function g(e){return e&&e instanceof a?e:e?(0,i.X)(e,c,(()=>new a(c))):new a(c)}function p(e,t){n[e]=h(e).concat(t)}function h(e){return n[e]||[]}function v(t){return d[t]=d[t]||e(f,t)}function m(){return f.backlog}}(void 0,"globalEE"),d=(0,n.fP)();d.ee||(d.ee=u)},5546:(e,t,r)=>{"use strict";r.d(t,{E:()=>n,p:()=>i});var n=r(8325).ee.get("handle");function i(e,t,r,i,o){o?(o.buffer([e],i),o.emit(e,t,r)):(n.buffer([e],i),n.emit(e,t,r))}},4322:(e,t,r)=>{"use strict";r.d(t,{X:()=>o});var n=r(5546);o.on=a;var i=o.handlers={};function o(e,t,r,o){a(o||n.E,i,e,t,r)}function a(e,t,r,i,o){o||(o="feature"),e||(e=n.E);var a=t[o]=t[o]||{};(a[r]=a[r]||[]).push([e,i])}},3239:(e,t,r)=>{"use strict";r.d(t,{bP:()=>s,iz:()=>c,m$:()=>a});var n=r(385);let i=!1,o=!1;try{const e={get passive(){return i=!0,!1},get signal(){return o=!0,!1}};n._A.addEventListener("test",null,e),n._A.removeEventListener("test",null,e)}catch(e){}function a(e,t){return i||o?{capture:!!e,passive:i,signal:t}:!!e}function s(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;window.addEventListener(e,t,a(r,n))}function c(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2],n=arguments.length>3?arguments[3]:void 0;document.addEventListener(e,t,a(r,n))}},3117:(e,t,r)=>{"use strict";r.d(t,{a:()=>n});const n=(0,r(4402).Rl)()},4402:(e,t,r)=>{"use strict";r.d(t,{Rl:()=>a,ky:()=>s});var n=r(385);const i="xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx";function o(e,t){return e?15&e[t]:16*Math.random()|0}function a(){const e=n._A?.crypto||n._A?.msCrypto;let t,r=0;return e&&e.getRandomValues&&(t=e.getRandomValues(new Uint8Array(30))),i.split("").map((e=>"x"===e?o(t,r++).toString(16):"y"===e?(3&o()|8).toString(16):e)).join("")}function s(e){const t=n._A?.crypto||n._A?.msCrypto;let r,i=0;t&&t.getRandomValues&&(r=t.getRandomValues(new Uint8Array(e)));const a=[];for(var s=0;s<e;s++)a.push(o(r,i++).toString(16));return a.join("")}},7056:(e,t,r)=>{"use strict";r.d(t,{Bq:()=>n,Hb:()=>a,IK:()=>u,K4:()=>i,oD:()=>o,uT:()=>c,wO:()=>s});const n="NRBA",i="SESSION",o=144e5,a=18e5,s={STARTED:"session-started",PAUSE:"session-pause",RESET:"session-reset",RESUME:"session-resume",UPDATE:"session-update"},c={SAME_TAB:"same-tab",CROSS_TAB:"cross-tab"},u={OFF:0,FULL:1,ERROR:2}},7894:(e,t,r)=>{"use strict";function n(){return Math.floor(performance.now())}r.d(t,{z:()=>n})},50:(e,t,r)=>{"use strict";function n(e,t){"function"==typeof console.warn&&(console.warn("New Relic: ".concat(e)),t&&console.warn(t))}r.d(t,{Z:()=>n})},2825:(e,t,r)=>{"use strict";r.d(t,{N:()=>c,T:()=>s});var n=r(8325),i=r(385);const o="newrelic";const a=new Set,s={};function c(e,t){const r=n.ee.get(t);s[t]??={},e&&"object"==typeof e&&(a.has(t)||(r.emit("rumresp",[e]),s[t]=e,a.add(t),function(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};try{i._A.dispatchEvent(new CustomEvent(o,{detail:e}))}catch(e){}}({loaded:!0})))}},2210:(e,t,r)=>{"use strict";r.d(t,{X:()=>i});var n=Object.prototype.hasOwnProperty;function i(e,t,r){if(n.call(e,t))return e[t];var i=r();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:i,writable:!0,enumerable:!1}),i}catch(e){}return e[t]=i,i}},7872:(e,t,r)=>{"use strict";function n(e){var t=this;let r=arguments.length>1&&void 0!==arguments[1]?arguments[1]:500,n=arguments.length>2&&void 0!==arguments[2]?arguments[2]:{};const i=n?.leading||!1;let o;return function(){for(var n=arguments.length,a=new Array(n),s=0;s<n;s++)a[s]=arguments[s];i&&void 0===o&&(e.apply(t,a),o=setTimeout((()=>{o=clearTimeout(o)}),r)),i||(clearTimeout(o),o=setTimeout((()=>{e.apply(t,a)}),r))}}function i(e){var t=this;let r=!1;return function(){if(!r){r=!0;for(var n=arguments.length,i=new Array(n),o=0;o<n;o++)i[o]=arguments[o];e.apply(t,i)}}}r.d(t,{D:()=>n,Z:()=>i})},1284:(e,t,r)=>{"use strict";r.d(t,{D:()=>n});const n=(e,t)=>Object.entries(e||{}).map((e=>{let[r,n]=e;return t(r,n)}))},4351:(e,t,r)=>{"use strict";r.d(t,{P:()=>o});var n=r(8325);const i=()=>{const e=new WeakSet;return(t,r)=>{if("object"==typeof r&&null!==r){if(e.has(r))return;e.add(r)}return r}};function o(e){try{return JSON.stringify(e,i())}catch(e){try{n.ee.emit("internal-error",[e])}catch(e){}}}},3960:(e,t,r)=>{"use strict";r.d(t,{KB:()=>a,b2:()=>o});var n=r(3239);function i(){return"undefined"==typeof document||"complete"===document.readyState}function o(e,t){if(i())return e();(0,n.bP)("load",e,t)}function a(e){if(i())return e();(0,n.iz)("DOMContentLoaded",e)}},8632:(e,t,r)=>{"use strict";r.d(t,{EZ:()=>d,ce:()=>o,ek:()=>u,fP:()=>a,gG:()=>l,h5:()=>c,mF:()=>s});var n=r(385),i=r(7894);const o={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net"};function a(){return n._A.NREUM||(n._A.NREUM={}),void 0===n._A.newrelic&&(n._A.newrelic=n._A.NREUM),n._A.NREUM}function s(){let e=a();return e.o||(e.o={ST:n._A.setTimeout,SI:n._A.setImmediate,CT:n._A.clearTimeout,XHR:n._A.XMLHttpRequest,REQ:n._A.Request,EV:n._A.Event,PR:n._A.Promise,MO:n._A.MutationObserver,FETCH:n._A.fetch}),e}function c(e,t){let r=a();r.initializedAgents??={},t.initializedAt={ms:(0,i.z)(),date:new Date},r.initializedAgents[e]=t}function u(e){let t=a();return t.initializedAgents?.[e]}function d(e,t){a()[e]=t}function l(){return function(){let e=a();const t=e.info||{};e.info={beacon:o.beacon,errorBeacon:o.errorBeacon,...t}}(),function(){let e=a();const t=e.init||{};e.init={...t}}(),s(),function(){let e=a();const t=e.loader_config||{};e.loader_config={...t}}(),a()}},7956:(e,t,r)=>{"use strict";r.d(t,{N:()=>i});var n=r(3239);function i(e){let t=arguments.length>1&&void 0!==arguments[1]&&arguments[1],r=arguments.length>2?arguments[2]:void 0,i=arguments.length>3?arguments[3]:void 0;(0,n.iz)("visibilitychange",(function(){if(t)return void("hidden"===document.visibilityState&&e());e(document.visibilityState)}),r,i)}},3081:(e,t,r)=>{"use strict";r.d(t,{gF:()=>o,mY:()=>i,t9:()=>n,vz:()=>s,xS:()=>a});const n=r(3325).D.metrics,i="sm",o="cm",a="storeSupportabilityMetrics",s="storeEventMetrics"},7633:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewEvent},9251:(e,t,r)=>{"use strict";r.d(t,{t:()=>n});const n=r(3325).D.pageViewTiming},7144:(e,t,r)=>{"use strict";r.d(t,{Ef:()=>i});var n=r(7056);r(3325).D.sessionReplay;const i={RECORD:"recordReplay",PAUSE:"pauseReplay",REPLAY_RUNNING:"replayRunning",ERROR_DURING_REPLAY:"errorDuringReplay"};n.IK.ERROR,n.IK.FULL,n.IK.OFF},5938:(e,t,r)=>{"use strict";r.d(t,{W:()=>i});var n=r(8325);class i{constructor(e,t,r){this.agentIdentifier=e,this.aggregator=t,this.ee=n.ee.get(e),this.featureName=r,this.blocked=!1}}},2758:(e,t,r)=>{"use strict";r.d(t,{j:()=>E});var n=r(3325),i=r(234),o=r(5546),a=r(8325),s=r(8e3),c=r(3960),u=r(385),d=r(50),l=r(3081),f=r(8632),g=r(7144);const p=["setErrorHandler","finished","addToTrace","addRelease","addPageAction","setCurrentRouteName","setPageViewName","setCustomAttribute","interaction","noticeError","setUserId","setApplicationVersion","start","recordReplay","pauseReplay",g.Ef.RECORD,g.Ef.PAUSE],h=["setErrorHandler","finished","addToTrace","addRelease"];var v=r(7894),m=r(7056);function b(){const e=(0,f.gG)();p.forEach((t=>{e[t]=function(){for(var r=arguments.length,n=new Array(r),i=0;i<r;i++)n[i]=arguments[i];return function(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];let o=[];return Object.values(e.initializedAgents).forEach((e=>{e.exposed&&e.api[t]&&o.push(e.api[t](...n))})),o.length>1?o:o[0]}(t,...n)}}))}const y={};var A=r(2825);const w=e=>{const t=e.startsWith("http");e+="/",r.p=t?e:"https://"+e};let _=!1;function E(e){let t=arguments.length>1&&void 0!==arguments[1]?arguments[1]:{},p=arguments.length>2?arguments[2]:void 0,E=arguments.length>3?arguments[3]:void 0,{init:x,info:D,loader_config:R,runtime:S={loaderType:p},exposed:k=!0}=t;const N=(0,f.gG)();D||(x=N.init,D=N.info,R=N.loader_config),(0,i.Dg)(e.agentIdentifier,x||{}),(0,i.GE)(e.agentIdentifier,R||{}),D.jsAttributes??={},u.v6&&(D.jsAttributes.isWorker=!0),(0,i.CX)(e.agentIdentifier,D);const P=(0,i.P_)(e.agentIdentifier),j=[D.beacon,D.errorBeacon];_||(P.proxy.assets&&(w(P.proxy.assets),j.push(P.proxy.assets)),P.proxy.beacon&&j.push(P.proxy.beacon),b(),(0,f.EZ)("activatedFeatures",A.T),e.runSoftNavOverSpa&&=!0===P.soft_navigations.enabled&&P.feature_flags.includes("soft_nav")),S.denyList=[...P.ajax.deny_list||[],...P.ajax.block_internal?j:[]],(0,i.sU)(e.agentIdentifier,S),void 0===e.api&&(e.api=function(e,t){let f=arguments.length>2&&void 0!==arguments[2]&&arguments[2];t||(0,s.RP)(e,"api");const p={};var b=a.ee.get(e),A=b.get("tracer");y[e]=m.IK.OFF,b.on(g.Ef.REPLAY_RUNNING,(t=>{y[e]=t}));var w="api-",_=w+"ixn-";function E(t,r,n,o){const a=(0,i.C5)(e);return null===r?delete a.jsAttributes[t]:(0,i.CX)(e,{...a,jsAttributes:{...a.jsAttributes,[t]:r}}),R(w,n,!0,o||null===r?"session":void 0)(t,r)}function x(){}h.forEach((e=>{p[e]=R(w,e,!0,"api")})),p.addPageAction=R(w,"addPageAction",!0,n.D.pageAction),p.setPageViewName=function(t,r){if("string"==typeof t)return"/"!==t.charAt(0)&&(t="/"+t),(0,i.OP)(e).customTransaction=(r||"http://custom.transaction")+t,R(w,"setPageViewName",!0)()},p.setCustomAttribute=function(e,t){let r=arguments.length>2&&void 0!==arguments[2]&&arguments[2];if("string"==typeof e){if(["string","number","boolean"].includes(typeof t)||null===t)return E(e,t,"setCustomAttribute",r);(0,d.Z)("Failed to execute setCustomAttribute.\nNon-null value must be a string, number or boolean type, but a type of <".concat(typeof t,"> was provided."))}else(0,d.Z)("Failed to execute setCustomAttribute.\nName must be a string type, but a type of <".concat(typeof e,"> was provided."))},p.setUserId=function(e){if("string"==typeof e||null===e)return E("enduser.id",e,"setUserId",!0);(0,d.Z)("Failed to execute setUserId.\nNon-null value must be a string type, but a type of <".concat(typeof e,"> was provided."))},p.setApplicationVersion=function(e){if("string"==typeof e||null===e)return E("application.version",e,"setApplicationVersion",!1);(0,d.Z)("Failed to execute setApplicationVersion. Expected <String | null>, but got <".concat(typeof e,">."))},p.start=e=>{try{const t=e?"defined":"undefined";(0,o.p)(l.xS,["API/start/".concat(t,"/called")],void 0,n.D.metrics,b);const r=Object.values(n.D);if(void 0===e)e=r;else{if((e=Array.isArray(e)&&e.length?e:[e]).some((e=>!r.includes(e))))return(0,d.Z)("Invalid feature name supplied. Acceptable feature names are: ".concat(r));e.includes(n.D.pageViewEvent)||e.push(n.D.pageViewEvent)}e.forEach((e=>{b.emit("".concat(e,"-opt-in"))}))}catch(e){(0,d.Z)("An unexpected issue occurred",e)}},p[g.Ef.RECORD]=function(){(0,o.p)(l.xS,["API/recordReplay/called"],void 0,n.D.metrics,b),(0,o.p)(g.Ef.RECORD,[],void 0,n.D.sessionReplay,b)},p[g.Ef.PAUSE]=function(){(0,o.p)(l.xS,["API/pauseReplay/called"],void 0,n.D.metrics,b),(0,o.p)(g.Ef.PAUSE,[],void 0,n.D.sessionReplay,b)},p.interaction=function(e){return(new x).get("object"==typeof e?e:{})};const D=x.prototype={createTracer:function(e,t){var r={},i=this,a="function"==typeof t;return(0,o.p)(l.xS,["API/createTracer/called"],void 0,n.D.metrics,b),f||(0,o.p)(_+"tracer",[(0,v.z)(),e,r],i,n.D.spa,b),function(){if(A.emit((a?"":"no-")+"fn-start",[(0,v.z)(),i,a],r),a)try{return t.apply(this,arguments)}catch(e){throw A.emit("fn-err",[arguments,this,e],r),e}finally{A.emit("fn-end",[(0,v.z)()],r)}}}};function R(e,t,r,i){return function(){return(0,o.p)(l.xS,["API/"+t+"/called"],void 0,n.D.metrics,b),i&&(0,o.p)(e+t,[(0,v.z)(),...arguments],r?null:this,i,b),r?void 0:this}}function S(){r.e(75).then(r.bind(r,7438)).then((t=>{let{setAPI:r}=t;r(e),(0,s.LP)(e,"api")})).catch((()=>{(0,d.Z)("Downloading runtime APIs failed..."),b.abort()}))}return["actionText","setName","setAttribute","save","ignore","onEnd","getContext","end","get"].forEach((e=>{D[e]=R(_,e,void 0,f?n.D.softNav:n.D.spa)})),p.setCurrentRouteName=f?R(_,"routeName",void 0,n.D.softNav):R(w,"routeName",!0,n.D.spa),p.noticeError=function(t,r){"string"==typeof t&&(t=new Error(t)),(0,o.p)(l.xS,["API/noticeError/called"],void 0,n.D.metrics,b),(0,o.p)("err",[t,(0,v.z)(),!1,r,!!y[e]],void 0,n.D.jserrors,b)},u.il?(0,c.b2)((()=>S()),!0):S(),p}(e.agentIdentifier,E,e.runSoftNavOverSpa)),void 0===e.exposed&&(e.exposed=k),_=!0}},8993:(e,t,r)=>{r.nc=(()=>{try{return document?.currentScript?.nonce}catch(e){}return""})()},3325:(e,t,r)=>{"use strict";r.d(t,{D:()=>n,p:()=>i});const n={ajax:"ajax",jserrors:"jserrors",metrics:"metrics",pageAction:"page_action",pageViewEvent:"page_view_event",pageViewTiming:"page_view_timing",sessionReplay:"session_replay",sessionTrace:"session_trace",softNav:"soft_navigations",spa:"spa"},i={[n.pageViewEvent]:1,[n.pageViewTiming]:2,[n.metrics]:3,[n.jserrors]:4,[n.ajax]:5,[n.sessionTrace]:6,[n.pageAction]:7,[n.spa]:8,[n.softNav]:9,[n.sessionReplay]:10}}},n={};function i(e){var t=n[e];if(void 0!==t)return t.exports;var o=n[e]={exports:{}};return r[e](o,o.exports,i),o.exports}i.m=r,i.d=(e,t)=>{for(var r in t)i.o(t,r)&&!i.o(e,r)&&Object.defineProperty(e,r,{enumerable:!0,get:t[r]})},i.f={},i.e=e=>Promise.all(Object.keys(i.f).reduce(((t,r)=>(i.f[r](e,t),t)),[])),i.u=e=>"nr-rum-1.258.0.min.js",i.o=(e,t)=>Object.prototype.hasOwnProperty.call(e,t),e={},t="NRBA-1.258.0.PROD:",i.l=(r,n,o,a)=>{if(e[r])e[r].push(n);else{var s,c;if(void 0!==o)for(var u=document.getElementsByTagName("script"),d=0;d<u.length;d++){var l=u[d];if(l.getAttribute("src")==r||l.getAttribute("data-webpack")==t+o){s=l;break}}if(!s){c=!0;var f={75:"sha512-dbRQ0U/DzQ6bR/LVo1bSCjmtT4Mn+TUoByqFctqWrjwdLoHvi/Uhr3w190Zk5FuNMJFjPV0z6jQVNhQGb0DrLQ=="};(s=document.createElement("script")).charset="utf-8",s.timeout=120,i.nc&&s.setAttribute("nonce",i.nc),s.setAttribute("data-webpack",t+o),s.src=r,0!==s.src.indexOf(window.location.origin+"/")&&(s.crossOrigin="anonymous"),f[a]&&(s.integrity=f[a])}e[r]=[n];var g=(t,n)=>{s.onerror=s.onload=null,clearTimeout(p);var i=e[r];if(delete e[r],s.parentNode&&s.parentNode.removeChild(s),i&&i.forEach((e=>e(n))),t)return t(n)},p=setTimeout(g.bind(null,void 0,{type:"timeout",target:s}),12e4);s.onerror=g.bind(null,s.onerror),s.onload=g.bind(null,s.onload),c&&document.head.appendChild(s)}},i.r=e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})},i.p="https://js-agent.newrelic.com/",(()=>{var e={50:0,832:0};i.f.j=(t,r)=>{var n=i.o(e,t)?e[t]:void 0;if(0!==n)if(n)r.push(n[2]);else{var o=new Promise(((r,i)=>n=e[t]=[r,i]));r.push(n[2]=o);var a=i.p+i.u(t),s=new Error;i.l(a,(r=>{if(i.o(e,t)&&(0!==(n=e[t])&&(e[t]=void 0),n)){var o=r&&("load"===r.type?"missing":r.type),a=r&&r.target&&r.target.src;s.message="Loading chunk "+t+" failed.\n("+o+": "+a+")",s.name="ChunkLoadError",s.type=o,s.request=a,n[1](s)}}),"chunk-"+t,t)}};var t=(t,r)=>{var n,o,[a,s,c]=r,u=0;if(a.some((t=>0!==e[t]))){for(n in s)i.o(s,n)&&(i.m[n]=s[n]);if(c)c(i)}for(t&&t(r);u<a.length;u++)o=a[u],i.o(e,o)&&e[o]&&e[o][0](),e[o]=0},r=self["webpackChunk:NRBA-1.258.0.PROD"]=self["webpackChunk:NRBA-1.258.0.PROD"]||[];r.forEach(t.bind(null,0)),r.push=t.bind(null,r.push.bind(r))})(),(()=>{"use strict";i(8993);var e=i(50),t=i(7144),r=i(4402);class n{agentIdentifier;constructor(){let e=arguments.length>0&&void 0!==arguments[0]?arguments[0]:(0,r.ky)(16);this.agentIdentifier=e}#e(t){for(var r=arguments.length,n=new Array(r>1?r-1:0),i=1;i<r;i++)n[i-1]=arguments[i];if("function"==typeof this.api?.[t])return this.api[t](...n);(0,e.Z)("Call to agent api ".concat(t," failed. The API is not currently initialized."))}addPageAction(e,t){return this.#e("addPageAction",e,t)}setPageViewName(e,t){return this.#e("setPageViewName",e,t)}setCustomAttribute(e,t,r){return this.#e("setCustomAttribute",e,t,r)}noticeError(e,t){return this.#e("noticeError",e,t)}setUserId(e){return this.#e("setUserId",e)}setApplicationVersion(e){return this.#e("setApplicationVersion",e)}setErrorHandler(e){return this.#e("setErrorHandler",e)}finished(e){return this.#e("finished",e)}addRelease(e,t){return this.#e("addRelease",e,t)}start(e){return this.#e("start",e)}recordReplay(){return this.#e(t.Ef.RECORD)}pauseReplay(){return this.#e(t.Ef.PAUSE)}addToTrace(e){return this.#e("addToTrace",e)}setCurrentRouteName(e){return this.#e("setCurrentRouteName",e)}interaction(){return this.#e("interaction")}}var o=i(3325),a=i(234);const s=Object.values(o.D);function c(e){const t={};return s.forEach((r=>{t[r]=function(e,t){return!0===(0,a.Mt)(t,"".concat(e,".enabled"))}(r,e)})),t}var u=i(2758);var d=i(8e3),l=i(5938),f=i(3960),g=i(385);function p(e){return g.il&&!0===(0,a.Mt)(e,"privacy.cookies_enabled")}function h(e){return!!a.Yu.MO&&p(e)&&!0===(0,a.Mt)(e,"session_trace.enabled")}var v=i(7872);class m extends l.W{constructor(e,t,r){let n=!(arguments.length>3&&void 0!==arguments[3])||arguments[3];super(e,t,r),this.auto=n,this.abortHandler=void 0,this.featAggregate=void 0,this.onAggregateImported=void 0,!1===(0,a.Mt)(this.agentIdentifier,"".concat(this.featureName,".autoStart"))&&(this.auto=!1),this.auto?(0,d.RP)(e,r):this.ee.on("".concat(this.featureName,"-opt-in"),(0,v.Z)((()=>{(0,d.RP)(this.agentIdentifier,this.featureName),this.auto=!0,this.importAggregator()})))}importAggregator(){let t,r=arguments.length>0&&void 0!==arguments[0]?arguments[0]:{};if(this.featAggregate||!this.auto)return;this.onAggregateImported=new Promise((e=>{t=e}));const n=async()=>{let n;try{if(p(this.agentIdentifier)){const{setupAgentSession:e}=await i.e(75).then(i.bind(i,7920));n=e(this.agentIdentifier)}}catch(t){(0,e.Z)("A problem occurred when starting up session manager. This page will not start or extend any session.",t),this.featureName===o.D.sessionReplay&&this.abortHandler?.()}try{if(!this.#t(this.featureName,n))return(0,d.LP)(this.agentIdentifier,this.featureName),void t(!1);const{lazyFeatureLoader:e}=await i.e(75).then(i.bind(i,8582)),{Aggregate:o}=await e(this.featureName,"aggregate");this.featAggregate=new o(this.agentIdentifier,this.aggregator,r),t(!0)}catch(r){(0,e.Z)("Downloading and initializing ".concat(this.featureName," failed..."),r),this.abortHandler?.(),(0,d.LP)(this.agentIdentifier,this.featureName,!0),t(!1),this.ee&&this.ee.abort()}};g.il?(0,f.b2)((()=>n()),!0):n()}#t(e,t){return e!==o.D.sessionReplay||(r=this.agentIdentifier,n=t,!(!h(r)||!n?.isNew&&!n?.state.sessionReplayMode));var r,n}}var b=i(7633);class y extends m{static featureName=b.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,b.t,r),this.importAggregator()}}var A=i(1117),w=i(1284);class _ extends A.w{constructor(e){super(e),this.aggregatedData={}}store(e,t,r,n,i){var o=this.getBucket(e,t,r,i);return o.metrics=function(e,t){t||(t={count:0});return t.count+=1,(0,w.D)(e,(function(e,r){t[e]=E(r,t[e])})),t}(n,o.metrics),o}merge(e,t,r,n,i){var o=this.getBucket(e,t,n,i);if(o.metrics){var a=o.metrics;a.count+=r.count,(0,w.D)(r,(function(e,t){if("count"!==e){var n=a[e],i=r[e];i&&!i.c?a[e]=E(i.t,n):a[e]=function(e,t){if(!t)return e;t.c||(t=x(t.t));return t.min=Math.min(e.min,t.min),t.max=Math.max(e.max,t.max),t.t+=e.t,t.sos+=e.sos,t.c+=e.c,t}(i,a[e])}}))}else o.metrics=r}storeMetric(e,t,r,n){var i=this.getBucket(e,t,r);return i.stats=E(n,i.stats),i}getBucket(e,t,r,n){this.aggregatedData[e]||(this.aggregatedData[e]={});var i=this.aggregatedData[e][t];return i||(i=this.aggregatedData[e][t]={params:r||{}},n&&(i.custom=n)),i}get(e,t){return t?this.aggregatedData[e]&&this.aggregatedData[e][t]:this.aggregatedData[e]}take(e){for(var t={},r="",n=!1,i=0;i<e.length;i++)t[r=e[i]]=Object.values(this.aggregatedData[r]||{}),t[r].length&&(n=!0),delete this.aggregatedData[r];return n?t:null}}function E(e,t){return null==e?function(e){e?e.c++:e={c:1};return e}(t):t?(t.c||(t=x(t.t)),t.c+=1,t.t+=e,t.sos+=e*e,e>t.max&&(t.max=e),e<t.min&&(t.min=e),t):{t:e}}function x(e){return{t:e,min:e,max:e,sos:e*e,c:1}}var D=i(8632),R=i(4351);var S=i(5546),k=i(7956),N=i(3239),P=i(9251),j=i(7894);class T extends m{static featureName=P.t;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,P.t,r),g.il&&((0,k.N)((()=>(0,S.p)("docHidden",[(0,j.z)()],void 0,P.t,this.ee)),!0),(0,N.bP)("pagehide",(()=>(0,S.p)("winPagehide",[(0,j.z)()],void 0,P.t,this.ee))),this.importAggregator())}}var I=i(3081);class O extends m{static featureName=I.t9;constructor(e,t){let r=!(arguments.length>2&&void 0!==arguments[2])||arguments[2];super(e,t,I.t9,r),this.importAggregator()}}new class extends n{constructor(t,r){super(r),g._A?(this.sharedAggregator=new _({agentIdentifier:this.agentIdentifier}),this.features={},(0,D.h5)(this.agentIdentifier,this),this.desiredFeatures=new Set(t.features||[]),this.desiredFeatures.add(y),this.runSoftNavOverSpa=[...this.desiredFeatures].some((e=>e.featureName===o.D.softNav)),(0,u.j)(this,t,t.loaderType||"agent"),this.run()):(0,e.Z)("Failed to initialize the agent. Could not determine the runtime environment.")}get config(){return{info:this.info,init:this.init,loader_config:this.loader_config,runtime:this.runtime}}run(){try{const t=c(this.agentIdentifier),r=[...this.desiredFeatures];r.sort(((e,t)=>o.p[e.featureName]-o.p[t.featureName])),r.forEach((r=>{if(!t[r.featureName]&&r.featureName!==o.D.pageViewEvent)return;if(this.runSoftNavOverSpa&&r.featureName===o.D.spa)return;if(!this.runSoftNavOverSpa&&r.featureName===o.D.softNav)return;const n=function(e){switch(e){case o.D.ajax:return[o.D.jserrors];case o.D.sessionTrace:return[o.D.ajax,o.D.pageViewEvent];case o.D.sessionReplay:return[o.D.sessionTrace];case o.D.pageViewTiming:return[o.D.pageViewEvent];default:return[]}}(r.featureName);n.every((e=>e in this.features))||(0,e.Z)("".concat(r.featureName," is enabled but one or more dependent features has not been initialized (").concat((0,R.P)(n),"). This may cause unintended consequences or missing data...")),this.features[r.featureName]=new r(this.agentIdentifier,this.sharedAggregator)}))}catch(t){(0,e.Z)("Failed to initialize all enabled instrument classes (agent aborted) -",t);for(const e in this.features)this.features[e].abortHandler?.();const r=(0,D.fP)();delete r.initializedAgents[this.agentIdentifier]?.api,delete r.initializedAgents[this.agentIdentifier]?.features,delete this.sharedAggregator;return r.ee.get(this.agentIdentifier).abort(),!1}}}({features:[y,T,O],loaderType:"lite"})})()})();</script>
+					<meta name="viewport" id="Viewport"	content="width=device-width, initial-scale=1">
+				<meta name="referrer" content="no-referrer">
+		<link rel="profile" href="http://gmpg.org/xfn/11">
+    	<link rel="apple-touch-icon" sizes="57x57" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/apple-icon-57x57.png?v=1">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/apple-icon-60x60.png?v=1">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/apple-icon-72x72.png?v=1">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/apple-icon-76x76.png?v=1">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/apple-icon-114x114.png?v=1">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/apple-icon-120x120.png?v=1">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/apple-icon-144x144.png?v=1">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/apple-icon-152x152.png?v=1">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/apple-icon-180x180.png?v=1">
+        <link rel="icon" type="image/png" sizes="192x192"  href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/android-icon-192x192.png?v=1">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/favicon-32x32.png?v=1">
+        <link rel="icon" type="image/png" sizes="96x96" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/favicon-96x96.png?v=1">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/favicons/favicon-16x16.png?v=1">
+    	    			        <link rel="preload" href="https://www.websiteplanet.com/wp-content/uploads/static/header-6243-53b82f5af306e230351a1c90eb61c8ca.min.css" as="style" media="all" importance="high"><link rel="preload" href="https://www.websiteplanet.com/wp-content/uploads/static/footer-6243-3a4695da1ca35f82dbbbadfb3744a960.min.js" as="script" importance="low"><link rel="stylesheet" href="https://www.websiteplanet.com/wp-content/uploads/static/header-6243-53b82f5af306e230351a1c90eb61c8ca.min.css" media="all"><link rel="alternate" hreflang="en" href="https://www.websiteplanet.com/webtools/" /><link rel="alternate" hreflang="da" href="https://www.websiteplanet.com/da/webtools/" /><link rel="alternate" hreflang="de" href="https://www.websiteplanet.com/de/webtools/" /><link rel="alternate" hreflang="es" href="https://www.websiteplanet.com/es/webtools/" /><link rel="alternate" hreflang="fr" href="https://www.websiteplanet.com/fr/webtools/" /><link rel="alternate" hreflang="id" href="https://www.websiteplanet.com/id/webtools/" /><link rel="alternate" hreflang="it" href="https://www.websiteplanet.com/it/webtools/" /><link rel="alternate" hreflang="hu" href="https://www.websiteplanet.com/hu/webtools/" /><link rel="alternate" hreflang="nl" href="https://www.websiteplanet.com/nl/webtools/" /><link rel="alternate" hreflang="nb" href="https://www.websiteplanet.com/nb/webtools/" /><link rel="alternate" hreflang="pl" href="https://www.websiteplanet.com/pl/webtools/" /><link rel="alternate" hreflang="pt-br" href="https://www.websiteplanet.com/pt-br/webtools/" /><link rel="alternate" hreflang="ro" href="https://www.websiteplanet.com/ro/webtools/" /><link rel="alternate" hreflang="fi" href="https://www.websiteplanet.com/fi/webtools/" /><link rel="alternate" hreflang="sv" href="https://www.websiteplanet.com/sv/webtools/" /><link rel="alternate" hreflang="vi" href="https://www.websiteplanet.com/vi/webtools/" /><link rel="alternate" hreflang="tr" href="https://www.websiteplanet.com/tr/webtools/" /><link rel="alternate" hreflang="cs" href="https://www.websiteplanet.com/cs/webtools/" /><link rel="alternate" hreflang="el" href="https://www.websiteplanet.com/el/webtools/" /><link rel="alternate" hreflang="ru" href="https://www.websiteplanet.com/ru/webtools/" /><link rel="alternate" hreflang="uk" href="https://www.websiteplanet.com/uk/webtools/" /><link rel="alternate" hreflang="bg" href="https://www.websiteplanet.com/bg/webtools/" /><link rel="alternate" hreflang="th" href="https://www.websiteplanet.com/th/webtools/" /><link rel="alternate" hreflang="ja" href="https://www.websiteplanet.com/ja/webtools/" /><link rel="alternate" hreflang="zh-hans" href="https://www.websiteplanet.com/zh-hans/webtools/" /><link rel="alternate" hreflang="ko" href="https://www.websiteplanet.com/ko/webtools/" /><link rel="alternate" hreflang="he" href="https://www.websiteplanet.com/he/webtools/" /><link rel="alternate" hreflang="ar" href="https://www.websiteplanet.com/ar/webtools/" /><link rel="alternate" hreflang="hr" href="https://www.websiteplanet.com/hr/webtools/" /><link rel="alternate" hreflang="hi" href="https://www.websiteplanet.com/hi/" /><link rel="alternate" hreflang="x-default" href="https://www.websiteplanet.com/webtools/" /><meta property="fb:app_id" content="603733949782292"/><title>Web Tools Directory: 20+ Free Tools to Improve your Website</title><meta name="description" content="Collection of 20+ free web tools for web developers, designers and webmasters to make your job easier. No registration needed, try it yourself." /><link rel="canonical" href="https://www.websiteplanet.com/webtools/" /><meta property="og:locale" content="en_US" /><meta property="og:type" content="object" /><meta property="og:title" content="Web Tools Directory: 20+ Free Tools to Improve your Website" /><meta property="og:description" content="Collection of 20+ free web tools for web developers, designers and webmasters to make your job easier. No registration needed, try it yourself." /><meta property="og:url" content="https://www.websiteplanet.com/webtools/" /><meta property="og:site_name" content="Website Planet" /><meta property="og:image" content="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/websiteplanet_image.png" /><meta property="og:image:secure_url" content="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/websiteplanet_image.png" /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="630" /><meta name="twitter:card" content="summary" /><meta name="twitter:site" content="@website_planet" /><meta name="twitter:description" content="Collection of 20+ free web tools for web developers, designers and webmasters to make your job easier. No registration needed, try it yourself." /><meta name="twitter:title" content="Web Tools Directory: 20+ Free Tools to Improve your Website" /><meta name="twitter:image" content="https://dt2sdf0db8zob.cloudfront.net/wp-content/themes/websiteplanet/img/websiteplanet_image.png" /><script type="application/ld+json">[{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"https:\/\/www.websiteplanet.com#website","url":"https:\/\/www.websiteplanet.com","name":"WebsitePlanet","publisher":{"@id":"https:\/\/www.websiteplanet.com#organization"}},{"@context":"http:\/\/schema.org","@type":"Organization","@id":"https:\/\/www.websiteplanet.com#organization","name":"WebsitePlanet","image":{"@type":"ImageObject","@id":"https:\/\/www.websiteplanet.com\/webtools\/#organizationlogo","url":"https:\/\/dt2sdf0db8zob.cloudfront.net\/wp-content\/themes\/websiteplanet\/img\/wsp-logo-schema.png","caption":"WebsitePlanet"},"logo":{"@type":"ImageObject","@id":"https:\/\/www.websiteplanet.com\/webtools\/#organizationlogo","url":"https:\/\/dt2sdf0db8zob.cloudfront.net\/wp-content\/themes\/websiteplanet\/img\/wsp-logo-schema.png","caption":"WebsitePlanet"}},{"@context":"http:\/\/schema.org","@type":"WebPage","@id":"https:\/\/www.websiteplanet.com\/webtools\/#webpage","url":"https:\/\/www.websiteplanet.com\/webtools\/","inLanguage":"en_US","name":"Web Tools Directory: 20+ Free Tools to Improve your Website","isPartOf":{"@id":"https:\/\/www.websiteplanet.com#website"},"image":{"@type":"ImageObject","@id":"https:\/\/www.websiteplanet.com\/webtools\/#primaryimage","url":"https:\/\/dt2sdf0db8zob.cloudfront.net\/wp-content\/themes\/websiteplanet\/img\/websiteplanet_image.png","caption":"Web Tools Directory: 20+ Free Tools to Improve your Website"},"primaryImageOfPage":{"@id":"https:\/\/www.websiteplanet.com\/webtools\/#primaryimage"},"datePublished":"2024-04-04","dateModified":"2024-05-01"}]</script>		<script>var TrackingQueryString = function () {
+	// This function is anonymous, is executed immediately and
+	// the return value is assigned to QueryString!
+	var query_string = {};
+	var query = window.location.search.substring(1);
+	var vars = query.split("&");
+	for (var i=0;i<vars.length;i++) {
+		var pair = vars[i].split("=");
+			// If first entry with this name
+		if (typeof query_string[pair[0]] === "undefined") {
+		query_string[pair[0]] = decodeURIComponent(pair[1]);
+			// If second entry with this name
+		} else if (typeof query_string[pair[0]] === "string") {
+		var arr = [ query_string[pair[0]],decodeURIComponent(pair[1]) ];
+		query_string[pair[0]] = arr;
+			// If third or later entry with this name
+		} else {
+		query_string[pair[0]].push(decodeURIComponent(pair[1]));
+		}
+	}
+	return query_string;
+    }();
+
+	function generateGUID() {
+		let m='xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx', i= 0, u= '';
+		while(i++<36) {
+			let c = m[i-1],r= Math.random()*16|0, v= c=='x' ? r : (r&0x3|0x8);
+			u += (c=='-'||c=='4') ? c : v.toString(16);
+		}
+		return u.toUpperCase();
+	}
+
+	if (typeof userGUID === 'undefined') {
+		var userGUID = generateGUID();
+	}
+
+    </script>
+	
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7L0W5XYKZE"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){
+	  dataLayer.push(arguments);
+	  window.googleEvents = window.googleEvents || [];
+	  window.googleEvents.push(arguments);
+ }
+ const EU_codes=["AT","BE","BG","HR","CY","CZ","DK","EE","FI","FR","DE","GR","HU","IE","IT","LV","LT","LU","MT","NL","PL","PT","RO","SK","SI","ES","SE"];
+	const countryAttribute = document.querySelector("html").getAttribute("country");
+	window.isEU = EU_codes.includes(countryAttribute);
+	if (window.isEU) {
+		gtag('consent', 'default', {
+			'ad_storage': 'denied',
+			'ad_user_data': 'denied',
+			'ad_personalization': 'denied',
+			'analytics_storage': 'granted',
+			'wait_for_update': 500 
+		});
+	}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7L0W5XYKZE', {
+	'user_id': userGUID
+	});
+  console.log('GA-event: pageview');
+
+if(typeof varid !== 'undefined' && varid !== null && varid !== '' && typeof expid !== 'undefined' && expid !== null && expid !== '') {
+	gtag('config', 'G-7L0W5XYKZE', {
+		  'experiments': [
+		    {'expId': expid}
+		  ]
+		});
+	gtag('config', 'G-7L0W5XYKZE', {
+		  'experiments': [
+		    {'expVar': expid}
+		  ]
+		});
+
+}
+
+</script>
+<!-- End Google Analytics -->
+
+
+
+
+<!-- start Alooma -->
+<script type="text/javascript">
+(function(e,b){if(!b.__SV){var a,f,i,g;
+window.alooma=b;
+b._i=[];
+b.init=function(a,e,d){function f(b,h){var a=h.split(".");
+2==a.length&&(b=b[a[0]],h=a[1]);
+b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;
+"undefined"!==typeof d?c=b[d]=[]:d="alooma";
+c.people=c.people||[];
+c.toString=function(b){var a="alooma";
+"alooma"!==d&&(a+="."+d);
+b||(a+=" (stub)");
+return a};
+c.people.toString=function(){return c.toString(1)+".people (stub)"};
+i="disable time_event track track_custom_event track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.union people.track_charge people.clear_charges people.delete_user".split(" ");
+ for(g=0;
+     g<i.length;
+     g++)f(c,i[g]);
+b._i.push([a,e,d])};
+b.__SV=1.2;
+a=e.createElement("script");
+a.type="text/javascript";
+a.async=!0;
+var ALOOMA_CUSTOM_LIB_URL ="//dt2sdf0db8zob.cloudfront.net/jssdk/track/jssdk-alooma.min.js";
+a.src="undefined"!==typeof ALOOMA_CUSTOM_LIB_URL?ALOOMA_CUSTOM_LIB_URL:"file:"===e.location.protocol&&"//cdn.alooma.com/libs/alooma-latest.min.js".match(/^\/\//)?"https://cdn.alooma.com/libs/alooma-latest.min.js":"//cdn.alooma.com/libs/alooma-latest.min.js";
+f=e.getElementsByTagName("script")[0];
+f.parentNode.insertBefore(a,f)}})(document,window.alooma||[]);
+alooma.init("gBsWnjXdjn", {"api_host": location.protocol+'//'+location.hostname+ "/jssdk","fb_host":"https://wsknow.net/jssdk"},"newiknowlogy");
+var dataAloomaIds = {pageviewRandomId: '3|'+ Date.now(), clickoutRandomIdPrefix: 1, user_id: userGUID};
+
+var splitCurrentUrl = {};
+splitCurrentUrl.host=window.location.origin + window.location.pathname;
+splitCurrentUrl.params=TrackingQueryString;
+
+</script>
+<!-- end Alooma -->  
+	</head>
+ <body class="page-template page-template-page-webtools page-template-page-webtools-php single single-page postid-1884387 page page-id-1884387 ww" id="body">
+	
+    
+        
+    <div id="page" class="site">
+		<header id="masthead" class="site-header" role="banner">
+			<div class="header-container">
+				<div class="site-header-mobile-fixed">
+					<a href="https://www.websiteplanet.com/" class="site-branding" name="SiteLogo" rel="home"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 816 287" aria-label="logo" role="img"><g transform="matrix(1.60418 0 0 -1.60418 -81.6065 316.148)">
+        <path d="M333.765 161.56l-6.65-26.893-7.787 26.893h-6.23l-7.787-26.893-6.6 26.893h-8.685l11.38-42.648h6.95l7.845 25.876 7.847-25.876h6.948l11.44 42.648h-8.685zm45.1-7.43v7.43h-28.093V118.9h28.093v7.428h-19.768V136.7h16.832v7.428h-16.832v10h19.768z"/><path d="M407.018 126.338h-8.686v10.482h8.686c3.772 0 5.57-2.336 5.57-5.2s-1.798-5.273-5.57-5.273m-8.686 27.792h8.147c3.533 0 5.5-1.975 5.5-4.9s-1.977-4.912-5.5-4.912h-8.147v9.822zm22.582-22.94c0 5.7-3.294 8.387-5.87 9.586 2.158 1.018 5.273 4.072 5.273 8.804 0 7.3-4.852 11.98-13.178 11.98h-17.133V118.9h17.85c7.608 0 13.058 4.313 13.058 12.28m35.756 9.355c-1.797 1.676-4.252 2.756-8.146 3.295l-5.032.717c-1.736.24-3.114.9-3.954 1.678-.896.838-1.257 1.977-1.257 3.054 0 2.935 2.157 5.392 6.6 5.392 2.816 0 6.05-.36 8.744-2.935l5.272 5.2c-3.654 3.535-7.906 4.972-13.777 4.972-9.223 0-14.854-5.332-14.854-12.938 0-3.594 1.018-6.35 3.055-8.387 1.915-1.856 4.612-2.995 8.264-3.534l5.154-.718c1.976-.3 2.934-.72 3.772-1.498.898-.838 1.317-2.096 1.317-3.594 0-3.414-2.634-5.27-7.546-5.27-3.954 0-7.607.896-10.302 3.594l-5.4-5.393c4.192-4.252 9.104-5.63 15.572-5.63 8.925 0 15.813 4.67 15.813 12.937 0 3.774-1.018 6.9-3.294 9.045m22.45 21.028h-8.326V118.9h8.326v42.648zm20.905-42.66h8.325v35.22h11.14v7.428h-30.608v-7.428h11.142V118.9zm29.23 0h28.093v7.428H537.6V136.7h16.83v7.427H537.6v10.002h19.767v7.428h-28.093V118.9zm-218.5-44.277h-7.786v11.68h7.786c3.773 0 6.17-2.397 6.17-5.87s-2.397-5.8-6.17-5.8m.42 19.107H294.65V51.082h8.327v16.055h8.206c8.805 0 14.076 6.05 14.076 13.297s-5.27 13.296-14.076 13.296m30.897 0h-8.326V51.082h27.675v7.43h-19.35v35.22zm97.647-26.115l-16.9 26.115h-7.428V51.082h8.328v26.176l16.9-26.176h7.428V93.73h-8.327V67.615z"/><path d="M458.733 51.082h28.1v7.43h-19.767v10.36H483.9V76.3h-16.833v10.002h19.767v7.427h-28.1V51.082zm38.313 35.22H508.2V51.08h8.324V86.3h11.14v7.428h-30.608V86.3zM385.042 93.73l-15.515-42.648h8.686L388.335 78.8l10.123-27.728h8.686L391.57 93.73h-6.528zM193.828 72.425L183.73 95.273l17.66 7.804 5.346 2.465c5.152-12.652-.54-27.28-12.9-33.117m72.45 86.152c-3.396 7.684-15.7 8.96-38.727 4.006a4.61 4.61 0 0 1-1.226-.348c-2.367-1.045-3.44-3.813-2.393-6.18a4.69 4.69 0 0 1 5.536-2.619c10.643 2.292 17.386 2.834 21.605 2.714h.01c1.8-.052 3.14-.224 4.126-.43 1.635-.34 2.348-2.06 1.342-3.68s-2.888-3.996-6.4-7.265c-5.996-5.578-15.122-12.2-26.4-19.176-9.216-5.695-17.77-10.267-26.148-13.97l-17.66-7.806-6.552 14.825-.154-.066a4.51 4.51 0 0 1-5.942 2.3c-2.276-1.004-3.307-3.666-2.3-5.942l-.154-.068 20.436-46.237-20.222-8.937c-13.007-5.75-28.353.2-34.102 13.197l-3.083 6.976c-5.75 13.008.2 28.352 13.198 34.102l28.184 12.455c10.548 4.662 22.635 1.637 29.893-6.6 6.737 3.2 13.657 7.008 21.033 11.566l5.9 3.742-.368.862c-15.73 35.593-57.338 51.695-92.932 35.965C102.8 158.695 86.648 127.076 91.7 96.16c-9.67-6.046-17.763-11.83-23.824-17.052C60.85 73.04 51.91 64.058 55.442 56.06c3.44-7.778 16.016-8.994 39.564-3.826a4.61 4.61 0 0 1 1.2.343 4.69 4.69 0 0 1 2.393 6.182c-.956 2.162-3.348 3.236-5.558 2.6-15.16-3.33-22.62-3.176-26.148-2.53-1.945.355-2.602 2.414-1.74 3.764C67.738 66.66 75.32 74.634 94 86.56a71.41 71.41 0 0 1 2.831-7.543c15.73-35.594 57.34-51.696 92.933-35.965 30.032 13.273 46.187 44.967 41.055 75.926 11.486 7.23 20.72 14.1 26.796 19.984 3.007 2.902 12.154 11.742 8.674 19.615"/></g></svg></a>
+					<div class="header-menu-button header-menu-mob-button" id="header-menu-button"><span></span><span></span><span></span></div>
+                                        	<div class="header-lang-menu-button header-menu-mob-button" id="header-lang-menu-button"><span class="header-nav-menu-item-text header-nav-menu-item-text-wpml header-nav-menu-item-wpml-selected-lang-flag bg-en"></span></div>                                        <div class="header-cur-menu-button header-menu-mob-button" id="header-cur-menu-button">US$</div>
+                    <div class="header-search-menu-button header-menu-mob-button" id="header-search-menu-button"></div>
+                    <nav id="header-main-nav" class="header-main-nav header-nav" role="navigation">
+    					<ul id="new-primary-menu" class="menu"><li class="header-nav-menu-item menu-item-has-children menu-item-vendors" tabindex="0"><span class="header-nav-menu-item-text">Reviews</span>    <ul class="header-nav-sub-menu reviews tools-count-10 lang-en">
+    
+    	<li class="menu-item-second-level first-item-reviews">
+    	<span class="menu-item-first-name">choose by category</span>
+             					<a href="https://www.websiteplanet.com/website-builders/" class="header-nav-cat-title newmenu_websitebuilder" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Website Builders', this, false)">
+    				Website Builders                    </a>
+            					<a href="https://www.websiteplanet.com/web-hosting/" class="header-nav-cat-title newmenu_webhosting" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Web Hosting', this, false)">
+    				Web Hosting                    </a>
+            					<a href="https://www.websiteplanet.com/credit-card-processing/" class="header-nav-cat-title newmenu_creditcardprocessing" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Credit Card Processing', this, false)">
+    				Credit Card Processing                    </a>
+            					<a href="https://www.websiteplanet.com/llc-services/" class="header-nav-cat-title newmenu_llcservices" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'LLC Services', this, false)">
+    				LLC Services                    </a>
+            					<a href="https://www.websiteplanet.com/project-management-software/" class="header-nav-cat-title newmenu_projectmanagement" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Project Management Software', this, false)">
+    				Project Management Software                    </a>
+            					<a href="https://www.websiteplanet.com/logo-design-services/" class="header-nav-cat-title newmenu_logodesigh" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Logo Design Services', this, false)">
+    				Logo Design Services                    </a>
+            					<a href="https://www.websiteplanet.com/freelance-websites/" class="header-nav-cat-title newmenu_freelance" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Freelance Websites', this, false)">
+    				Freelance Websites                    </a>
+            					<a href="https://www.websiteplanet.com/landing-page-creators/" class="header-nav-cat-title newmenu_lpcreator" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Landing Page Creators', this, false)">
+    				Landing Page Creators                    </a>
+            					<a href="https://www.websiteplanet.com/form-builders/" class="header-nav-cat-title newmenu_formbuilder" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Form Builders', this, false)">
+    				Form Builders                    </a>
+            					<a href="https://www.websiteplanet.com/social-media-tools/" class="header-nav-cat-title newmenu_socialmedia" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Social Media Tools', this, false)">
+    				Social Media Tools                    </a>
+            					<a href="https://www.websiteplanet.com/cloud-storage/" class="header-nav-cat-title newmenu_cloudbackup" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Cloud Storage', this, false)">
+    				Cloud Storage                    </a>
+            					<a href="https://www.websiteplanet.com/email-marketing-services/" class="header-nav-cat-title newmenu_emailswrvice" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Email Marketing Services', this, false)">
+    				Email Marketing Services                    </a>
+                    </li>
+        <li class="menu-item-second-level tablet-only">
+             					<a href="https://www.websiteplanet.com/website-builders/" class="header-nav-cat-title newmenu_websitebuilder" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Website Builders', this, false)">
+    				Website Builders                    </a>
+            					<a href="https://www.websiteplanet.com/web-hosting/" class="header-nav-cat-title newmenu_webhosting" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Web Hosting', this, false)">
+    				Web Hosting                    </a>
+            					<a href="https://www.websiteplanet.com/credit-card-processing/" class="header-nav-cat-title newmenu_creditcardprocessing" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Credit Card Processing', this, false)">
+    				Credit Card Processing                    </a>
+            					<a href="https://www.websiteplanet.com/llc-services/" class="header-nav-cat-title newmenu_llcservices" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'LLC Services', this, false)">
+    				LLC Services                    </a>
+            					<a href="https://www.websiteplanet.com/project-management-software/" class="header-nav-cat-title newmenu_projectmanagement" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Project Management Software', this, false)">
+    				Project Management Software                    </a>
+            					<a href="https://www.websiteplanet.com/logo-design-services/" class="header-nav-cat-title newmenu_logodesigh" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Logo Design Services', this, false)">
+    				Logo Design Services                    </a>
+            					<a href="https://www.websiteplanet.com/freelance-websites/" class="header-nav-cat-title newmenu_freelance" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Freelance Websites', this, false)">
+    				Freelance Websites                    </a>
+            					<a href="https://www.websiteplanet.com/landing-page-creators/" class="header-nav-cat-title newmenu_lpcreator" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Landing Page Creators', this, false)">
+    				Landing Page Creators                    </a>
+            					<a href="https://www.websiteplanet.com/form-builders/" class="header-nav-cat-title newmenu_formbuilder" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Form Builders', this, false)">
+    				Form Builders                    </a>
+            					<a href="https://www.websiteplanet.com/social-media-tools/" class="header-nav-cat-title newmenu_socialmedia" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Social Media Tools', this, false)">
+    				Social Media Tools                    </a>
+            					<a href="https://www.websiteplanet.com/cloud-storage/" class="header-nav-cat-title newmenu_cloudbackup" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Cloud Storage', this, false)">
+    				Cloud Storage                    </a>
+            					<a href="https://www.websiteplanet.com/email-marketing-services/" class="header-nav-cat-title newmenu_emailswrvice" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Email Marketing Services', this, false)">
+    				Email Marketing Services                    </a>
+                    </li>
+        <span class="menu-item-second-name">choose by top providers</span>
+                                 <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/website-builders/" class="header-nav-cat-title newmenu_websitebuilder" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Website Builders', this, false)">
+                    Website Builders                </a>
+               
+                    <ul class="sub-menu" data-catid="145">
+                                                        <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/website-builders/wix/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'wix', this, false)">Wix</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/website-builders/site123/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'site123', this, false)">SITE123</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/website-builders/squarespace/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'squarespace', this, false)">Squarespace</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/website-builders/webador/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'webador', this, false)">Webador</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/website-builders/1and1-ionos/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'ionos website builder', this, false)">IONOS Website Builder</a>
+                                </li>
+                                                    <li class="header-nav-cat-all">
+                            <a href="https://www.websiteplanet.com/website-builders/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all Website Builders', this, false)">View Best</a>
+                        </li>
+                    </ul>
+              
+
+            </li>
+                                               <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/web-hosting/" class="header-nav-cat-title newmenu_webhosting" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Web Hosting', this, false)">
+                    Web Hosting                </a>
+               
+                    <ul class="sub-menu" data-catid="164">
+                                                        <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/web-hosting/hostinger/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'hostinger', this, false)">Hostinger</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/web-hosting/1and1-ionos-hosting/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'ionos', this, false)">IONOS</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/web-hosting/interserver/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'interserver', this, false)">InterServer</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/web-hosting/nexcess/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'nexcess', this, false)">Nexcess</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/web-hosting/kinsta/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'kinsta', this, false)">Kinsta</a>
+                                </li>
+                                                    <li class="header-nav-cat-all">
+                            <a href="https://www.websiteplanet.com/web-hosting/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all Web Hosting', this, false)">View Best</a>
+                        </li>
+                    </ul>
+              
+
+            </li>
+                                               <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/credit-card-processing/" class="header-nav-cat-title newmenu_creditcardprocessing" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Credit Card Processing', this, false)">
+                    Credit Card Processing                </a>
+               
+                    <ul class="sub-menu" data-catid="1435">
+                                                        <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/credit-card-processing/leaders-merchant-services/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'leaders merchant services', this, false)">Leaders Merchant Services</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/credit-card-processing/paysafe/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'paysafe', this, false)">Paysafe</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/credit-card-processing/stax/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'stax', this, false)">Stax</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/credit-card-processing/payment-depot/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'payment depot', this, false)">Payment Depot</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/credit-card-processing/chase-payment-solutions/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'chase payment solutions', this, false)">Chase Payment Solutions</a>
+                                </li>
+                                                    <li class="header-nav-cat-all">
+                            <a href="https://www.websiteplanet.com/credit-card-processing/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all Credit Card Processing', this, false)">View Best</a>
+                        </li>
+                    </ul>
+              
+
+            </li>
+                                               <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/llc-services/" class="header-nav-cat-title newmenu_llcservices" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'LLC Services', this, false)">
+                    LLC Services                </a>
+               
+                    <ul class="sub-menu" data-catid="1497">
+                                                        <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/llc-services/zenbusiness/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'zenbusiness', this, false)">ZenBusiness</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/llc-services/tailor-brands-llc/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'tailor brands llc', this, false)">Tailor Brands LLC</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/llc-services/legalzoom/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'legalzoom', this, false)">LegalZoom</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/llc-services/northwest-reqistered-agent/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'northwest registered agent', this, false)">Northwest Registered Agent</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/llc-services/incfile/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'bizee (incfile)', this, false)">Bizee (Incfile)</a>
+                                </li>
+                                                    <li class="header-nav-cat-all">
+                            <a href="https://www.websiteplanet.com/llc-services/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all LLC Services', this, false)">View Best</a>
+                        </li>
+                    </ul>
+              
+
+            </li>
+                                               <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/project-management-software/" class="header-nav-cat-title newmenu_projectmanagement" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Project Management Software', this, false)">
+                    Project Management Software                </a>
+               
+                    <ul class="sub-menu" data-catid="1343">
+                                                        <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/project-management-software/monday-com/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'monday.com', this, false)">monday.com</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/project-management-software/clickup/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'clickup', this, false)">ClickUp</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/project-management-software/smartsheet/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'smartsheet', this, false)">Smartsheet</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/project-management-software/jira/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'jira', this, false)">Jira</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/project-management-software/teamwork/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'teamwork', this, false)">Teamwork</a>
+                                </li>
+                                                    <li class="header-nav-cat-all">
+                            <a href="https://www.websiteplanet.com/project-management-software/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all Project Management Software', this, false)">View Best</a>
+                        </li>
+                    </ul>
+              
+
+            </li>
+                                               <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/logo-design-services/" class="header-nav-cat-title newmenu_logodesigh" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Logo Design Services', this, false)">
+                    Logo Design Services                </a>
+               
+                    <ul class="sub-menu" data-catid="159">
+                                                        <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/logo-design-services/fiverr-logo-design/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'fiverr logo design', this, false)">Fiverr Logo Design</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/logo-design-services/wix-logo-maker/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'wix logo maker', this, false)">Wix Logo Maker</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/logo-design-services/looka/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'looka', this, false)">Looka</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/logo-design-services/designcrowd/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'designcrowd', this, false)">DesignCrowd</a>
+                                </li>
+                                                            <li class="header-nav-cat-item">
+                                    <a href="https://www.websiteplanet.com/logo-design-services/99designs/" onclick="trackClickout('event', 'Top_menu_Events', 'en', '99designs', this, false)">99designs</a>
+                                </li>
+                                                    <li class="header-nav-cat-all">
+                            <a href="https://www.websiteplanet.com/logo-design-services/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all Logo Design Services', this, false)">View Best</a>
+                        </li>
+                    </ul>
+              
+
+            </li>
+                                                                                                                                                        </ul>
+    </li><li class="header-nav-menu-item menu-item-has-children menu-item-vendors" tabindex="0"><span class="header-nav-menu-item-text">Coupons<span class="header-nav-menu-item-coupon" dir="ltr">99+</span></span>    <ul class="header-nav-sub-menu coupons">
+                    
+            <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/coupons/website-builders/" class="header-nav-cat-title newmenu_websitebuilder" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Website Builders', this, false)">
+                  Website Builders                </a>
+                                <ul class="sub-menu" data-catid="145">
+                                            
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/wix/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Wix', this, false)">
+            
+                                Wix<span class="countForV"> (4)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/site123/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'SITE123', this, false)">
+            
+                                SITE123<span class="countForV"> (4)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/squarespace/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Squarespace', this, false)">
+            
+                                Squarespace<span class="countForV"> (4)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/webador/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Webador', this, false)">
+            
+                                Webador<span class="countForV"> (4)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/1and1-ionos/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'IONOS Website Builder', this, false)">
+            
+                                IONOS Website Builder<span class="countForV"> (4)</span>            
+                            </a>
+                        </li>
+                                          <li class="header-nav-cat-all">
+                       <a href="https://www.websiteplanet.com/coupons/website-builders/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all Website Builders', this, false)">View Best</a>
+                    </li>
+                </ul>
+             </li>
+                    
+            <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/coupons/web-hosting/" class="header-nav-cat-title newmenu_webhosting" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Web Hosting', this, false)">
+                  Web Hosting                </a>
+                                <ul class="sub-menu" data-catid="164">
+                                            
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/hostinger/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Hostinger', this, false)">
+            
+                                Hostinger<span class="countForV"> (4)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/1and1-ionos-hosting/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'IONOS', this, false)">
+            
+                                IONOS<span class="countForV"> (2)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/interserver/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'InterServer', this, false)">
+            
+                                InterServer<span class="countForV"> (4)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/nexcess/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Nexcess', this, false)">
+            
+                                Nexcess<span class="countForV"> (4)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/kinsta/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Kinsta', this, false)">
+            
+                                Kinsta<span class="countForV"> (1)</span>            
+                            </a>
+                        </li>
+                                          <li class="header-nav-cat-all">
+                       <a href="https://www.websiteplanet.com/coupons/web-hosting/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all Web Hosting', this, false)">View Best</a>
+                    </li>
+                </ul>
+             </li>
+                    
+            <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/coupons/logo-design-services/" class="header-nav-cat-title newmenu_logodesigh" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Logo Design Services', this, false)">
+                  Logo Design Services                </a>
+                                <ul class="sub-menu" data-catid="159">
+                                            
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/fiverr-logo-design/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Fiverr Logo Design', this, false)">
+            
+                                Fiverr Logo Design<span class="countForV"> (3)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/wix-logo-maker/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Wix Logo Maker', this, false)">
+            
+                                Wix Logo Maker<span class="countForV"> (2)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/looka/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Looka', this, false)">
+            
+                                Looka<span class="countForV"> (3)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/designcrowd/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'DesignCrowd', this, false)">
+            
+                                DesignCrowd<span class="countForV"> (3)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/99designs/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', '99designs', this, false)">
+            
+                                99designs<span class="countForV"> (1)</span>            
+                            </a>
+                        </li>
+                                          <li class="header-nav-cat-all">
+                       <a href="https://www.websiteplanet.com/coupons/logo-design-services/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all Logo Design Services', this, false)">View Best</a>
+                    </li>
+                </ul>
+             </li>
+                    
+            <li class="menu-item-second-level">
+                <a href="https://www.websiteplanet.com/coupons/email-marketing-services/" class="header-nav-cat-title newmenu_emailswrvice" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Email Marketing Services', this, false)">
+                  Email Marketing Services                </a>
+                                <ul class="sub-menu" data-catid="166">
+                                            
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/sendinblue/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Brevo (formerly Sendinblue)', this, false)">
+            
+                                Brevo (formerly Sendinblue)<span class="countForV"> (3)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/aweber/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'AWeber', this, false)">
+            
+                                AWeber<span class="countForV"> (2)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/omnisend/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Omnisend', this, false)">
+            
+                                Omnisend<span class="countForV"> (3)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/mailchimp/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Mailchimp', this, false)">
+            
+                                Mailchimp<span class="countForV"> (1)</span>            
+                            </a>
+                        </li>
+                                             
+                        <li class="header-nav-cat-item">
+                             <a href="https://www.websiteplanet.com/coupon/getresponse/"
+                                onclick="trackClickout('event', 'Top_menu_Events', 'en', 'GetResponse', this, false)">
+            
+                                GetResponse<span class="countForV"> (5)</span>            
+                            </a>
+                        </li>
+                                          <li class="header-nav-cat-all">
+                       <a href="https://www.websiteplanet.com/coupons/email-marketing-services/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'View all Email Marketing Services', this, false)">View Best</a>
+                    </li>
+                </ul>
+             </li>
+            </ul>
+    </li><li class="header-nav-menu-item menu-item-has-children menu-item-tools" tabindex="0"><span class="header-nav-menu-item-text">Tools</span>    <ul class="header-nav-sub-menu popular"> 
+    	        	<li class="menu-item-second-level menu-item-second-level-tools">
+            <a href="https://www.websiteplanet.com/webtools/" ><span class="header-nav-cat-title newmenu_populartools">Popular tools</span></a>
+       			<ul class="sub-menu ">
+       				                                                <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/imagecompressor/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Compress PNG/JPG', this, false)">Compress PNG/JPG</a>
+                        </li>
+                                           	                                                <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/free-qr-code-generator/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Free QR Code Generator', this, false)">Free QR Code Generator</a>
+                        </li>
+                                           	                                                <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/sharelink/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Share Link Creator', this, false)">Share Link Creator</a>
+                        </li>
+                                           	                                                <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/check-domain/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Domain Expiration Checker', this, false)">Domain Expiration Checker</a>
+                        </li>
+                                           	                                                <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/down-or-not/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Site Down or Not', this, false)">Site Down or Not</a>
+                        </li>
+                                           	                                                <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/multiple-url/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Multiple URL Opener', this, false)">Multiple URL Opener</a>
+                        </li>
+                                           	                </ul>
+    		 </li>
+       		       <li class="menu-see-all-tools"><a href="https://www.websiteplanet.com/webtools/" class="See-All-Tools">
+       See All Tools       </a></li>
+    </ul>
+    <ul class="header-nav-sub-menu" id="see-all-tools" style="display:none;">
+    	        	<li class="menu-item-second-level menu-item-second-level-tools">
+        		<span class="header-nav-cat-title newmenu_webmastertools">Webmaster tools</span>
+       			<ul class="sub-menu ">
+       				                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/robots-txt/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Robots.txt Checker', this, false)">Robots.txt Checker</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/sitemap-validator/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'XML Sitemap Validator', this, false)">XML Sitemap Validator</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/favicon-generator/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Favicon Generator', this, false)">Favicon Generator</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/responsive-checker/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Responsive Checker', this, false)">Responsive Checker</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/ssl-checker/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'SSL Checker', this, false)">SSL Checker</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/check-domain/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Domain Expiration Checker', this, false)">Domain Expiration Checker</a>
+                        </li>
+                   	                </ul>
+    		 </li>
+       		        	<li class="menu-item-second-level menu-item-second-level-tools">
+        		<span class="header-nav-cat-title newmenu_perfomancetools">Performance tools</span>
+       			<ul class="sub-menu ">
+       				                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/gzip-compression/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Gzip Compression', this, false)">Gzip Compression</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/redirected/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Redirect Checker', this, false)">Redirect Checker</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/imagecompressor/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Compress PNG/JPG', this, false)">Compress PNG/JPG</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/down-or-not/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Site Down or Not', this, false)">Site Down or Not</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/dummy-images-generator/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Dummy Image Generator', this, false)">Dummy Image Generator</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/abtest-calculator/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'A/B Test Calculator', this, false)">A/B Test Calculator</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/free-qr-code-generator/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Free QR Code Generator', this, false)">Free QR Code Generator</a>
+                        </li>
+                   	                </ul>
+    		 </li>
+       		        	<li class="menu-item-second-level menu-item-second-level-tools">
+        		<span class="header-nav-cat-title newmenu_operationaltools">Operational tools</span>
+       			<ul class="sub-menu ">
+       				                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/screenresolution/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'My screen resolution', this, false)">My screen resolution</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/multiple-url/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Multiple URL Opener', this, false)">Multiple URL Opener</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/sharelink/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Share Link Creator', this, false)">Share Link Creator</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/jscssminifier/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'JS & CSS Minifier', this, false)">JS & CSS Minifier</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/lorem-ipsum/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'Lorem Ipsum Generator', this, false)">Lorem Ipsum Generator</a>
+                        </li>
+                   	                        <li class="header-nav-cat-item">
+                        	<a href="https://www.websiteplanet.com/webtools/amp-validator/"  onclick="trackClickout('event', 'Top_menu_Events', 'en', 'AMP Validator', this, false)">AMP Validator</a>
+                        </li>
+                   	                </ul>
+    		 </li>
+       			</ul>
+	</li><li class="header-nav-menu-item menu-item-blog"><a href = "https://www.websiteplanet.com/blog/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'blog', this, false)"><span class="header-nav-menu-item-text">Blog</span></a></li><li class="header-nav-menu-item menu-item-news"><a href = "https://www.websiteplanet.com/news/" onclick="trackClickout('event', 'Top_menu_Events', 'en', 'news', this, false)"><span>News</span></a></li></ul>    				</nav>
+				    <nav id="header-additional-nav" class="header-additional-nav header-nav">
+						<ul>
+							<li class="header-search" id="header-nav-menu-item-search">
+            					<form action="/" role="search" id="header-searchform" class="search-form" method="get">
+                        			<div class="header-search-container">
+                            			<input type="submit" id="header-search-submit" class="search-submit" value="Search" />
+                                        <label for="header-search-input" id="header-search-label"></label>
+                            	        <input type="search" class="search-field" id="header-search-input" placeholder="Search..." value="" name="s" autocomplete="off" data-lang="en">
+                            	        <span id="header-nav-menu-item-search-close"></span>
+                        			</div>
+            					</form>
+            					<span id="header-search-autocomplete" data-empty="No results found" data-vendor-string="Reviews" data-post-string="Blog posts" data-score-string="Our score"></span>
+            				</li>            				    <li class="header-nav-menu-item menu-item-has-children menu-item-currency" id="header-nav-menu-item-cur" tabindex="0">
+            				    	<span class="header-nav-menu-item-text" id="header-nav-menu-item-text-cur" data-cur="USD">US$</span>
+        				    		<ul class="header-nav-sub-menu">
+                                        <li class="menu-currency-title">Top currencies</li>
+                                        <li class="menu-item-second-level menu-item-second-level-currency-top"><span  class="menu-currency-item" data-menu="€" data-cur="EUR"><b>€</b> Euro</span><span  class="menu-currency-item" data-menu="US$" data-cur="USD"><b>US$</b> U.S. dollar</span><span  class="menu-currency-item" data-menu="£" data-cur="GBP"><b>£</b> Pound sterling</span><span id="current-currency" class="menu-currency-item" data-menu="AU$" data-cur="AUD"><b>AU$</b> Australian dollar</span></li>
+                                        <li class="menu-currency-title">All currencies</li>
+                				    <li class="menu-item-second-level menu-item-second-level-currency"><span class="menu-currency-item" data-menu="AR$" data-cur="ARS"><b>AR$</b> Argentine peso</span><span class="menu-currency-item" data-menu="AU$" data-cur="AUD"><b>AU$</b> Australian dollar</span><span class="menu-currency-item" data-menu="R$" data-cur="BRL"><b>R$</b> Brazilian real</span><span class="menu-currency-item" data-menu="BGN" data-cur="BGN"><b>BGN</b> Bulgarian lev</span><span class="menu-currency-item" data-menu="CA$" data-cur="CAD"><b>CA$</b> Canadian dollar</span><span class="menu-currency-item" data-menu="CL$" data-cur="CLP"><b>CL$</b> Chilean peso</span><span class="menu-currency-item" data-menu="CNY" data-cur="CNY"><b>CNY</b> Chinese yuan</span><span class="menu-currency-item" data-menu="COL$" data-cur="COP"><b>COL$</b> Colombian peso</span><span class="menu-currency-item" data-menu="Kč" data-cur="CZK"><b>Kč</b> Czech koruna</span><span class="menu-currency-item" data-menu="DKK" data-cur="DKK"><b>DKK</b> Danish krone</span></li><li class="menu-item-second-level menu-item-second-level-currency"><span class="menu-currency-item" data-menu="E£" data-cur="EGP"><b>E£</b> Egyptian pound</span><span class="menu-currency-item" data-menu="€" data-cur="EUR"><b>€</b> Euro</span><span class="menu-currency-item" data-menu="HK$" data-cur="HKD"><b>HK$</b> Hong Kong Dollar</span><span class="menu-currency-item" data-menu="HRK" data-cur="HRK"><b>HRK</b> Croatian kuna</span><span class="menu-currency-item" data-menu="HUF" data-cur="HUF"><b>HUF</b> Hungarian forint</span><span class="menu-currency-item" data-menu="Rs." data-cur="INR"><b>Rs.</b> Indian rupee</span><span class="menu-currency-item" data-menu="Rp" data-cur="IDR"><b>Rp</b> Indonesian rupiah</span><span class="menu-currency-item" data-menu="₪" data-cur="ILS"><b>₪</b> Israeli new sheqel</span><span class="menu-currency-item" data-menu="¥" data-cur="JPY"><b>¥</b> Japanese yen</span><span class="menu-currency-item" data-menu="JOD" data-cur="JOD"><b>JOD</b> Jordanian dinar</span></li><li class="menu-item-second-level menu-item-second-level-currency"><span class="menu-currency-item" data-menu="KRW" data-cur="KRW"><b>KRW</b> Korean won</span><span class="menu-currency-item" data-menu="Mex$" data-cur="MXN"><b>Mex$</b> Mexican peso</span><span class="menu-currency-item" data-menu="NT$" data-cur="TWD"><b>NT$</b> New Taiwan Dollar</span><span class="menu-currency-item" data-menu="NZ$" data-cur="NZD"><b>NZ$</b> New Zealand dollar</span><span class="menu-currency-item" data-menu="NOK" data-cur="NOK"><b>NOK</b> Norwegian krone</span><span class="menu-currency-item" data-menu="zł" data-cur="PLN"><b>zł</b> Polish zloty</span><span class="menu-currency-item" data-menu="£" data-cur="GBP"><b>£</b> Pound sterling</span><span class="menu-currency-item" data-menu="lei" data-cur="RON"><b>lei</b> Romanian new leu</span><span class="menu-currency-item" data-menu="RUB" data-cur="RUB"><b>RUB</b> Russian Ruble</span><span class="menu-currency-item" data-menu="SAR" data-cur="SAR"><b>SAR</b> Saudi Arabian riyal</span></li><li class="menu-item-second-level menu-item-second-level-currency"><span class="menu-currency-item" data-menu="ZAR" data-cur="ZAR"><b>ZAR</b> South African rand</span><span class="menu-currency-item" data-menu="S$" data-cur="SGD"><b>S$</b> Singapore dollar</span><span class="menu-currency-item" data-menu="SEK" data-cur="SEK"><b>SEK</b> Swedish krona</span><span class="menu-currency-item" data-menu="CHF" data-cur="CHF"><b>CHF</b> Swiss franc</span><span class="menu-currency-item" data-menu="THB" data-cur="THB"><b>THB</b> Thai baht</span><span class="menu-currency-item" data-menu="TL" data-cur="TRY"><b>TL</b> Turkish lira</span><span class="menu-currency-item" data-menu="AED" data-cur="AED"><b>AED</b> U.A.E. dirham</span><span class="menu-currency-item" data-menu="US$" data-cur="USD"><b>US$</b> U.S. dollar</span><span class="menu-currency-item" data-menu="UAH" data-cur="UAH"><b>UAH</b> Ukraine Hryvnia</span><span class="menu-currency-item" data-menu="VND" data-cur="VND"><b>VND</b> Vietnamese Dong</span></li>                				    </ul>
+            				    </li>
+            				            				
+            				
+            				    
+                				<li class="header-nav-menu-item menu-item-has-children menu-item-wpml" id="header-nav-menu-item-wpml">
+                					<span class="header-nav-menu-item-close"></span>
+                					<span class="header-nav-menu-item-additional-text">Select your language<span id="header-nav-menu-item-additional-text-close" class="header-nav-menu-item-additional-text-close"></span></span>
+                					<span class="header-nav-menu-item-text header-nav-menu-item-text-wpml">
+                						<span class="header-nav-menu-item-wpml-selected-lang-flag bg-en"></span>
+                						<span class="header-nav-menu-item-wpml-selected-lang-name">English</span>
+                					</span>
+    								<ul class="header-nav-sub-menu">                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/da/webtools/" class="translate-full wpml-ls-flag-before bg-da">                                				    Dansk                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/de/webtools/" class="translate-full wpml-ls-flag-before bg-de">                                				    Deutsch                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/es/webtools/" class="translate-full wpml-ls-flag-before bg-es">                                				    Español                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/fr/webtools/" class="translate-full wpml-ls-flag-before bg-fr">                                				    Français                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/id/webtools/" class="translate-full wpml-ls-flag-before bg-id">                                				    Indonesia                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/it/webtools/" class="translate-full wpml-ls-flag-before bg-it">                                				    Italiano                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/hu/webtools/" class="translate-full wpml-ls-flag-before bg-hu">                                				    Magyar                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/nl/webtools/" class="translate-full wpml-ls-flag-before bg-nl">                                				    Nederlands                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/nb/webtools/" class="translate-full wpml-ls-flag-before bg-nb">                                				    Norsk bokmål                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/pl/webtools/" class="translate-full wpml-ls-flag-before bg-pl">                                				    Polski                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/pt-br/webtools/" class="translate-full wpml-ls-flag-before bg-pt-br">                                				    Português                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/ro/webtools/" class="translate-full wpml-ls-flag-before bg-ro">                                				    Română                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/fi/webtools/" class="translate-full wpml-ls-flag-before bg-fi">                                				    Suomi                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/sv/webtools/" class="translate-full wpml-ls-flag-before bg-sv">                                				    Svenska                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/vi/webtools/" class="translate-full wpml-ls-flag-before bg-vi">                                				    Tiếng Việt                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/tr/webtools/" class="translate-full wpml-ls-flag-before bg-tr">                                				    Türkçe                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/cs/webtools/" class="translate-full wpml-ls-flag-before bg-cs">                                				    Česky                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/el/webtools/" class="translate-full wpml-ls-flag-before bg-el">                                				    Ελληνικα                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/ru/webtools/" class="translate-full wpml-ls-flag-before bg-ru">                                				    Русский                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/uk/webtools/" class="translate-full wpml-ls-flag-before bg-uk">                                				    Українська                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/bg/webtools/" class="translate-full wpml-ls-flag-before bg-bg">                                				    Български                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/th/webtools/" class="translate-full wpml-ls-flag-before bg-th">                                				    ไทย                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/ja/webtools/" class="translate-full wpml-ls-flag-before bg-ja">                                				    日本語                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/zh-hans/webtools/" class="translate-full wpml-ls-flag-before bg-zh-hans">                                				    简体中文                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/ko/webtools/" class="translate-full wpml-ls-flag-before bg-ko">                                				    한국어                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/he/webtools/" class="translate-full wpml-ls-flag-before bg-he">                                				    עברית                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/ar/webtools/" class="translate-full wpml-ls-flag-before bg-ar">                                				    العربية                            				    </a>
+                        				    </li>
+                        				                        				    <li class="menu-item-wpml-item">
+                            				    <a href="https://www.websiteplanet.com/hr/webtools/" class="translate-full wpml-ls-flag-before bg-hr">                                				    Hrvatski                            				    </a>
+                        				    </li>
+                        				                    				</ul>
+                				</li>
+                    			        				</ul>
+                    </nav>
+    			</div>
+			</div>
+		</header>
+        		<div id="content" class="site-content">
+<div class="webtools-category" id="webtools-category">
+    <div class="webtools-category-header-block">
+    	<div class="webtools-category-header-img"></div>
+    	<h1 class="webtools-category-header-title">Web Tools Directory</h1>
+    	<div class="webtools-category-header-subtitle">Effective (Free) Tools to Help You Manage and Improve Your Website</div>
+    	<div class="webtools-category-header-form">
+    		<form action="/" role="search" id="webtools--searchform" class="webtools-search-form" method="get">
+    			<div class="webtools-search-container">
+    			<div class="search-img" style="display:none;"></div><div class="search-line" style="display:none;"></div>
+    			 	<input onkeyup="myFunction();" type="search" class="webtools-search-field" id="webtools-search-input" placeholder="Search" value="" name="s" autocomplete="off" data-lang="en">
+        			<input type="submit" id="webtools-search-submit" class="webtools-search-submit" value="Search">
+    			</div>
+			</form>
+		</div>
+    </div>
+	<div class="webtools-category-main">
+<div id="search-block-show" class="search-block-show">
+<div class="text-no-found" id="text-no-found">No results found</div>
+<div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/robots-txt/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Robots.txt Checker','Robots.txt Checker', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="robot-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Robots.txt Checker</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/favicon-generator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Favicon Generator','Favicon Generator', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="favicon-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Favicon Generator</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/ssl-checker/" onclick="trackClickout('event', 'clickin', 'Webtools Category - SSL Checker','SSL Checker', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="ssl-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">SSL Checker</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/sitemap-validator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - XML Sitemap Validator','XML Sitemap Validator', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="sitemap-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">XML Sitemap Validator</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/responsive-checker/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Responsive Checker','Responsive Checker', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="responsive-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Responsive Checker</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/check-domain/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Domain Expiration Checker','Domain Expiration Checker', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="domain-expiration-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Domain Expiration Checker</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/gzip-compression/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Gzip Compression','Gzip Compression', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="gzip-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Gzip Compression</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/imagecompressor/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Compress PNG/JPG','Compress PNG/JPG', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="compress-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Compress PNG/JPG</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/dummy-images-generator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Dummy Image Generator','Dummy Image Generator', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="dummy-image-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Dummy Image Generator</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/redirected/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Redirect Checker','Redirect Checker', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="redirect-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Redirect Checker</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/down-or-not/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Site Down or Not','Site Down or Not', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="down-or-not-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Site Down or Not</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/abtest-calculator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - A/B Test Calculator','A/B Test Calculator', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="ab-test-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">A/B Test Calculator</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/free-qr-code-generator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Free QR Code Generator','Free QR Code Generator', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="qr-code-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Free QR Code Generator</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/spell-checker/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Spell Checker','Spell Checker', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="spell-checker-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Spell Checker</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/screenresolution/" onclick="trackClickout('event', 'clickin', 'Webtools Category - My screen resolution','My screen resolution', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="my-screen-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">My screen resolution</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/sharelink/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Share Link Creator','Share Link Creator', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="share-link-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Share Link Creator</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/lorem-ipsum/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Lorem Ipsum Generator','Lorem Ipsum Generator', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="lorem-ipsum-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Lorem Ipsum Generator</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/multiple-url/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Multiple URL Opener','Multiple URL Opener', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="multi-url-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Multiple URL Opener</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/jscssminifier/" onclick="trackClickout('event', 'clickin', 'Webtools Category - JS & CSS Minifier','JS & CSS Minifier', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="js-minifier-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">JS & CSS Minifier</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/unminify-js/" onclick="trackClickout('event', 'clickin', 'Webtools Category - JS & CSS Unminifier','JS & CSS Unminifier', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="unminify-js-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">JS & CSS Unminifier</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/amp-validator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - AMP Validator','AMP Validator', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="amp-validator-img imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">AMP Validator</span></div></div></a></div><div class="webtools-category-main-block-tool-part2"><a href="https://www.websiteplanet.com/webtools/domain-name-generator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Domain Name Generator','Domain Name Generator', this, false);" class=""><div class="webtools-category-main-block-tool2"><div class="domain-name-generator imgSearch"></div><div class=" title-block-search"><span class="robot-title title-search">Domain Name Generator</span></div></div></a></div></div>
+		<div class="webtools-category-main-block">
+    		<div class="webtools-category-main-block-title one">
+    			<div class="webtools-category-main-title-img webmaster-tools-img" style="display:none;"></div>
+        		<div class="webtools-category-main-title">Webmaster Tools</div>
+        		<div class="webtools-category-main-title-chevron up"></div>
+    		</div>
+    		<div class="webtools-category-main-block-tools">
+    		<div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/robots-txt/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Robots.txt Checker', 'Robots.txt Checker', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img robot-img"></div><div class="robot-block-title"><span class="robot-title">Robots.txt Checker</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Robots.txt Checker</div></div></div><div class="hover-description">Test the accuracy of your Robots.TXT file and get actionable feedback.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/favicon-generator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Favicon Generator', 'Favicon Generator', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img favicon-img"></div><div class="robot-block-title"><span class="robot-title">Favicon Generator</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Favicon Generator</div></div></div><div class="hover-description">Quickly turn your logo into a correctly sized favicon in PNG format.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/ssl-checker/" onclick="trackClickout('event', 'clickin', 'Webtools Category - SSL Checker', 'SSL Checker', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img ssl-img"></div><div class="robot-block-title"><span class="robot-title">SSL Checker</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">SSL Checker</div></div></div><div class="hover-description">Find out if your SSL certificate is valid and trusted by browsers</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/sitemap-validator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - XML Sitemap Validator', 'XML Sitemap Validator', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img sitemap-img"></div><div class="robot-block-title"><span class="robot-title">XML Sitemap Validator</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">XML Sitemap Validator</div></div></div><div class="hover-description">Improve your ranking in SERPs by correcting errors in your XML SiteMap.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/responsive-checker/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Responsive Checker', 'Responsive Checker', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img responsive-img"></div><div class="robot-block-title"><span class="robot-title">Responsive Checker</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Responsive Checker</div></div></div><div class="hover-description">See how your website looks on mobile, tablet, desktop, or custom resolutions.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/check-domain/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Domain Expiration Checker', 'Domain Expiration Checker', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img domain-expiration-img"></div><div class="robot-block-title"><span class="robot-title">Domain Expiration Checker</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Domain Expiration Checker</div></div></div><div class="hover-description">Find out if a domain name is available or about to expire, and protect your own domain.</div></div></a></div>
+    		</div>
+		</div>
+		<div class="webtools-category-main-block">
+    		<div class="webtools-category-main-block-title">
+    			<div class="webtools-category-main-title-img performance-tools-img" style="display:none;"></div>
+        		<div class="webtools-category-main-title">Performance Tools</div>
+        		<div class="webtools-category-main-title-chevron up"></div>
+    		</div>
+    		<div class="webtools-category-main-block-tools">
+    		<div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/gzip-compression/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Gzip Compression', 'Gzip Compression', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img gzip-img"></div><div class="robot-block-title"><span class="robot-title">Gzip Compression</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Gzip Compression</div></div></div><div class="hover-description">Find out if Gzip compression is enabled (and effective) for your website.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/imagecompressor/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Compress PNG/JPG', 'Compress PNG/JPG', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img compress-img"></div><div class="robot-block-title"><span class="robot-title">Compress PNG/JPG</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Compress PNG/JPG</div></div></div><div class="hover-description">Shrink your PNG and JPG files without affecting the quality of your images.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/dummy-images-generator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Dummy Image Generator', 'Dummy Image Generator', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img dummy-image-img"></div><div class="robot-block-title"><span class="robot-title">Dummy Image Generator</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Dummy Image Generator</div></div></div><div class="hover-description">Generate, customize, and download placeholder images.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/redirected/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Redirect Checker', 'Redirect Checker', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img redirect-img"></div><div class="robot-block-title"><span class="robot-title">Redirect Checker</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Redirect Checker</div></div></div><div class="hover-description">Chase the redirection of an URL to find out exactly where it’ll take you.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/down-or-not/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Site Down or Not', 'Site Down or Not', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img down-or-not-img"></div><div class="robot-block-title"><span class="robot-title">Site Down or Not</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Site Down or Not</div></div></div><div class="hover-description">Check whether your website is really down or if it’s just unavailable to some users.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/abtest-calculator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - A/B Test Calculator', 'A/B Test Calculator', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img ab-test-img"></div><div class="robot-block-title"><span class="robot-title">A/B Test Calculator</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">A/B Test Calculator</div></div></div><div class="hover-description">Compare variants of the same page to find out which will help you reach your goal.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/free-qr-code-generator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Free QR Code Generator', 'Free QR Code Generator', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img qr-code-img"></div><div class="robot-block-title"><span class="robot-title">Free QR Code Generator</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Free QR Code Generator</div></div></div><div class="hover-description">Generate, customize, and download free high-resolution QR codes.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/spell-checker/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Spell Checker', 'Spell Checker', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img spell-checker-img"></div><div class="robot-block-title"><span class="robot-title">Spell Checker</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Spell Checker</div></div></div><div class="hover-description">Get word-perfect copy every time with our spell checker. Simply enter the URL you want to check, or paste your text below and we’ll do the rest.</div></div></a></div>    		
+    		</div>
+		</div>
+		<div class="webtools-category-main-block">
+    		<div class="webtools-category-main-block-title">
+    			<div class="webtools-category-main-title-img operational-tools-img" style="display:none;"></div>
+        		<div class="webtools-category-main-title">Operational Tools</div>
+        		<div class="webtools-category-main-title-chevron up"></div>
+    		</div>
+    		<div class="webtools-category-main-block-tools">
+    		<div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/screenresolution/" onclick="trackClickout('event', 'clickin', 'Webtools Category - My screen resolution', 'My screen resolution', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img my-screen-img"></div><div class="robot-block-title"><span class="robot-title">My screen resolution</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">My screen resolution</div></div></div><div class="hover-description">Quickly find out what resolution you’re using on your current display.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/sharelink/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Share Link Creator', 'Share Link Creator', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img share-link-img"></div><div class="robot-block-title"><span class="robot-title">Share Link Creator</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Share Link Creator</div></div></div><div class="hover-description">Help more people share your content by creating links for social media platforms.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/lorem-ipsum/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Lorem Ipsum Generator', 'Lorem Ipsum Generator', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img lorem-ipsum-img"></div><div class="robot-block-title"><span class="robot-title">Lorem Ipsum Generator</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Lorem Ipsum Generator</div></div></div><div class="hover-description">Easily generate placeholder text for your website design.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/multiple-url/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Multiple URL Opener', 'Multiple URL Opener', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img multi-url-img"></div><div class="robot-block-title"><span class="robot-title">Multiple URL Opener</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Multiple URL Opener</div></div></div><div class="hover-description">Fire up ten or more URLs simultaneously to improve your productivity.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/jscssminifier/" onclick="trackClickout('event', 'clickin', 'Webtools Category - JS & CSS Minifier', 'JS & CSS Minifier', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img js-minifier-img"></div><div class="robot-block-title"><span class="robot-title">JS & CSS Minifier</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">JS & CSS Minifier</div></div></div><div class="hover-description">Speed up your website by compressing JavaScript and CSS files.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/unminify-js/" onclick="trackClickout('event', 'clickin', 'Webtools Category - JS & CSS Unminifier', 'JS & CSS Unminifier', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img unminify-js-img"></div><div class="robot-block-title"><span class="robot-title">JS & CSS Unminifier</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">JS & CSS Unminifier</div></div></div><div class="hover-description">Make JS & CSS code readable with this quick unminifying tool!</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/amp-validator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - AMP Validator', 'AMP Validator', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img amp-validator-img"></div><div class="robot-block-title"><span class="robot-title">AMP Validator</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">AMP Validator</div></div></div><div class="hover-description">Check if your URLs are valid Accelerated Mobile Pages and get actionable tips.</div></div></a></div><div class="webtools-category-main-block-tool-part"><a href="https://www.websiteplanet.com/webtools/domain-name-generator/" onclick="trackClickout('event', 'clickin', 'Webtools Category - Domain Name Generator', 'Domain Name Generator', this, false);" class=""><div class="webtools-category-main-block-tool"><div class="webtools-center"><div class="webtools-img domain-name-generator"></div><div class="robot-block-title"><span class="robot-title">Domain Name Generator</span></div></div></div><div class="webtools-category-main-block-tool-hover" ><div class="webtools-category-main-block-tool-hover-head"><div class="webtools-center2"><div class="robot-title hover-title">Domain Name Generator</div></div></div><div class="hover-description">Enter keywords and get the best domain name suggestions for your website.</div></div></a></div>    		</div>
+		</div>
+		<div class="webtools-category-main-block"  style="display: none;">
+    		<div class="webtools-category-main-block-title">
+    			<div class="webtools-category-main-title-img design-tools-img"></div>
+        		<div class="webtools-category-main-title">Design Tools</div>
+        		<div class="webtools-category-main-title-chevron down"></div>
+    		</div>
+    		<div class="webtools-category-main-block-tools" style="display: none;">
+    		</div>
+		</div>
+		
+	</div>
+	<div class="coupon-vendor-main FAQ-block">
+		<div class="faq-css-new">
+        <h2 class="tools-faq-title">Frequently Asked Questions</h2>
+    	<h3 class="shortcode-faq-question-inline">What are the most essential tools for web development?</h3>
+<span class="shortcode-faq-answer-inline">All web tools included on our list serve an important function, but if you’re pressed for time, these are the ones you should consider first: 
+<ul>
+<li><strong>The PNG/JPG compressor</strong> can help you optimize your images and drastically improve page loading times.</li>
+<li><strong>The JS &amp; CSS minifier</strong> serves a similar function, and is just as easy to use.</li>
+<li><strong>Our SSL checker</strong> tests whether your website is padlock protected in a matter of seconds.</li>
+<li><strong>Our Responsive checker</strong> helps you ensure that your website looks good on both mobile and desktop screens.</li>
+<li><strong>The Robots.TXT checker</strong> and <strong>the SiteMap validator</strong> are essential tests for SEO purposes.</li>
+</ul>
+Most of these tools will not only assess your website, but also provide actionable feedback that you can use to improve it.</span> 
+<h3 class="shortcode-faq-question-inline">What types of tools do you feature on your website?</h3>
+<span class="shortcode-faq-answer-inline">Our featured web tools are organized into four categories: 
+<ul>
+<li><strong>Webmaster tools</strong> help you manage your domains and improve the visibility of your website.</li>
+<li><strong>Performance tools</strong> include image and CSS compressors that boost your website’s speed.</li>
+<li><strong>Operational tools</strong> like placeholder image and text generators enhance your workflow.</li>
+<li><strong>Design tools</strong> make it easier to build professional-looking websites without the help of an expert developer.</span></li>
+</ul>
+<h3 class="shortcode-faq-question-inline">Will you be updating this page with more tools?</h3>
+<span class="shortcode-faq-answer-inline">Absolutely. Our aim is to bring together the most effective web development tools that anyone can use to build, launch, and maintain a website. We will add more free services to this list as soon as they are vetted by our team of experts.</span> 
+
+   		</div>
+	</div>    
+</div> 
+
+        </div>
+
+			<footer id="colophon" class="site-footer" role="contentinfo">
+				<div class="container">
+					<div class="footer-block">
+						<p class="footer-block-title">Reviews</p>
+
+						<ul class="footer-block-list">
+							<li><a href="https://www.websiteplanet.com/website-builders/" >Website Builders</a></li>
+                            <li><a href="https://www.websiteplanet.com/web-hosting/" >Web Hosting</a></li>
+                            <li><a href="https://www.websiteplanet.com/logo-design-services/" >Logo Design Services</a></li>
+                            <li><a href="https://www.websiteplanet.com/email-marketing-services/" >Email Marketing Services</a></li>
+                            <li><a href="https://www.websiteplanet.com/freelance-websites/" >Freelance Websites</a></li>
+                            <li><a href="https://www.websiteplanet.com/landing-page-creators/" >Landing Page Creators</a></li>
+                            <li><a href="https://www.websiteplanet.com/form-builders/" >Form Builders</a></li>
+							<li><a href="https://www.websiteplanet.com/social-media-tools/" >Social Media Tools</a></li>
+							
+														   <li><a href="https://www.websiteplanet.com/cloud-storage/" >Cloud Storage</a></li>
+														<li><a href="https://www.websiteplanet.com/project-management-software/" >Project Management Software</a></li>
+                    		                    	    <li><a href="https://www.websiteplanet.com/credit-card-processing/" >Credit Card Processing</a></li>
+							<li><a href="https://www.websiteplanet.com/llc-services/" >LLC Services</a></li>
+                    		                    	</ul>
+					</div>
+										<div class="footer-block">
+						<p class="footer-block-title">Tools</p>
+						<ul class="footer-block-list">
+							<li><a href="https://www.websiteplanet.com/webtools/imagecompressor/">Compress PNG/JPG</a></li>
+							<li><a href="https://www.websiteplanet.com/webtools/free-qr-code-generator/">Free QR Code Generator</a></li>
+                            <li><a href="https://www.websiteplanet.com/webtools/sharelink/" >Share Link Creator</a></li>
+                            <li><a href="https://www.websiteplanet.com/webtools/check-domain/" >Domain Expiration Checker</a></li>
+                            <li><a href="https://www.websiteplanet.com/webtools/down-or-not/" >Site Down or Not</a></li>
+							<li><a href="https://www.websiteplanet.com/webtools/multiple-url/" >Multiple URL Opener</a></li>
+														<!--	<li><a  ></a></li> -->
+							<!--	<li><a  >Glossary Website Builders</a></li>-->
+														<!--	<li><a  ></a></li>-->
+														<!--	<li><a  ></a></li>-->
+													</ul>
+					</div>
+										<div class="footer-block">
+						<p class="footer-block-title">Information</p>
+						<ul class="footer-block-list">
+														<li><a href="https://www.websiteplanet.com/about/">About</a></li>
+														<li><a href="https://www.websiteplanet.com/blog/">Blog</a></li>
+														<li><a href="https://www.websiteplanet.com/news/">News</a></li>
+														<li><a href="https://www.websiteplanet.com/contact-us/">Contact Us</a></li>
+														<li><a href="https://www.websiteplanet.com/faq/">FAQ</a></li>
+														<li><a href="https://www.websiteplanet.com/disclosure/">Disclosure</a></li>
+														<li><a href="https://www.websiteplanet.com/sitemap/">Sitemap</a></li>
+														<li><a href="https://www.websiteplanet.com/testing-methodology/">Testing Methodology</a></li>
+														<li><a href="https://www.websiteplanet.com/privacy-policy/">Privacy Policy</a></li>
+														<li><a href="https://www.websiteplanet.com/terms-of-use/">Terms of Use</a></li>
+														<li><a href="https://www.websiteplanet.com/webselenese-dmca-policy/">DMCA Policy</a></li>
+							                    	</ul>
+					</div>
+										<div class="footer-block">
+						<a href="https://www.websiteplanet.com/" rel="home" class="site-footer-logo" ><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 816 287" aria-label="logo" role="img"><g transform="matrix(1.60418 0 0 -1.60418 -81.6065 316.148)">
+        <path d="M333.765 161.56l-6.65-26.893-7.787 26.893h-6.23l-7.787-26.893-6.6 26.893h-8.685l11.38-42.648h6.95l7.845 25.876 7.847-25.876h6.948l11.44 42.648h-8.685zm45.1-7.43v7.43h-28.093V118.9h28.093v7.428h-19.768V136.7h16.832v7.428h-16.832v10h19.768z"/><path d="M407.018 126.338h-8.686v10.482h8.686c3.772 0 5.57-2.336 5.57-5.2s-1.798-5.273-5.57-5.273m-8.686 27.792h8.147c3.533 0 5.5-1.975 5.5-4.9s-1.977-4.912-5.5-4.912h-8.147v9.822zm22.582-22.94c0 5.7-3.294 8.387-5.87 9.586 2.158 1.018 5.273 4.072 5.273 8.804 0 7.3-4.852 11.98-13.178 11.98h-17.133V118.9h17.85c7.608 0 13.058 4.313 13.058 12.28m35.756 9.355c-1.797 1.676-4.252 2.756-8.146 3.295l-5.032.717c-1.736.24-3.114.9-3.954 1.678-.896.838-1.257 1.977-1.257 3.054 0 2.935 2.157 5.392 6.6 5.392 2.816 0 6.05-.36 8.744-2.935l5.272 5.2c-3.654 3.535-7.906 4.972-13.777 4.972-9.223 0-14.854-5.332-14.854-12.938 0-3.594 1.018-6.35 3.055-8.387 1.915-1.856 4.612-2.995 8.264-3.534l5.154-.718c1.976-.3 2.934-.72 3.772-1.498.898-.838 1.317-2.096 1.317-3.594 0-3.414-2.634-5.27-7.546-5.27-3.954 0-7.607.896-10.302 3.594l-5.4-5.393c4.192-4.252 9.104-5.63 15.572-5.63 8.925 0 15.813 4.67 15.813 12.937 0 3.774-1.018 6.9-3.294 9.045m22.45 21.028h-8.326V118.9h8.326v42.648zm20.905-42.66h8.325v35.22h11.14v7.428h-30.608v-7.428h11.142V118.9zm29.23 0h28.093v7.428H537.6V136.7h16.83v7.427H537.6v10.002h19.767v7.428h-28.093V118.9zm-218.5-44.277h-7.786v11.68h7.786c3.773 0 6.17-2.397 6.17-5.87s-2.397-5.8-6.17-5.8m.42 19.107H294.65V51.082h8.327v16.055h8.206c8.805 0 14.076 6.05 14.076 13.297s-5.27 13.296-14.076 13.296m30.897 0h-8.326V51.082h27.675v7.43h-19.35v35.22zm97.647-26.115l-16.9 26.115h-7.428V51.082h8.328v26.176l16.9-26.176h7.428V93.73h-8.327V67.615z"/><path d="M458.733 51.082h28.1v7.43h-19.767v10.36H483.9V76.3h-16.833v10.002h19.767v7.427h-28.1V51.082zm38.313 35.22H508.2V51.08h8.324V86.3h11.14v7.428h-30.608V86.3zM385.042 93.73l-15.515-42.648h8.686L388.335 78.8l10.123-27.728h8.686L391.57 93.73h-6.528zM193.828 72.425L183.73 95.273l17.66 7.804 5.346 2.465c5.152-12.652-.54-27.28-12.9-33.117m72.45 86.152c-3.396 7.684-15.7 8.96-38.727 4.006a4.61 4.61 0 0 1-1.226-.348c-2.367-1.045-3.44-3.813-2.393-6.18a4.69 4.69 0 0 1 5.536-2.619c10.643 2.292 17.386 2.834 21.605 2.714h.01c1.8-.052 3.14-.224 4.126-.43 1.635-.34 2.348-2.06 1.342-3.68s-2.888-3.996-6.4-7.265c-5.996-5.578-15.122-12.2-26.4-19.176-9.216-5.695-17.77-10.267-26.148-13.97l-17.66-7.806-6.552 14.825-.154-.066a4.51 4.51 0 0 1-5.942 2.3c-2.276-1.004-3.307-3.666-2.3-5.942l-.154-.068 20.436-46.237-20.222-8.937c-13.007-5.75-28.353.2-34.102 13.197l-3.083 6.976c-5.75 13.008.2 28.352 13.198 34.102l28.184 12.455c10.548 4.662 22.635 1.637 29.893-6.6 6.737 3.2 13.657 7.008 21.033 11.566l5.9 3.742-.368.862c-15.73 35.593-57.338 51.695-92.932 35.965C102.8 158.695 86.648 127.076 91.7 96.16c-9.67-6.046-17.763-11.83-23.824-17.052C60.85 73.04 51.91 64.058 55.442 56.06c3.44-7.778 16.016-8.994 39.564-3.826a4.61 4.61 0 0 1 1.2.343 4.69 4.69 0 0 1 2.393 6.182c-.956 2.162-3.348 3.236-5.558 2.6-15.16-3.33-22.62-3.176-26.148-2.53-1.945.355-2.602 2.414-1.74 3.764C67.738 66.66 75.32 74.634 94 86.56a71.41 71.41 0 0 1 2.831-7.543c15.73-35.594 57.34-51.696 92.933-35.965 30.032 13.273 46.187 44.967 41.055 75.926 11.486 7.23 20.72 14.1 26.796 19.984 3.007 2.902 12.154 11.742 8.674 19.615"/></g></svg></a>
+    					<div class="footer-block-follow">	
+							<span class="footer-block-follow-text">Follow us</span>
+                        	<span class="footer-block-follow-links"> 
+								<a href="https://www.facebook.com/websiteplanet.com/" aria-label="facebook" target="_blank" class="footer-follow-link-fb" rel="nofollow noopener norefferer"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" aria-label="facebook" role="img"><path d="m375.14,288l14.22,-92.66l-88.91,0l0,-60.13c0,-25.35 12.42,-50.06 52.24,-50.06l40.42,0l0,-78.89s-36.68,-6.26 -71.75,-6.26c-73.22,0 -121.08,44.38 -121.08,124.72l0,70.62l-81.39,0l0,92.66l81.39,0l0,224l100.17,0l0,-224l74.69,0z"/></svg></a>
+								<a href="https://twitter.com/website_planet" aria-label="twitter" target="_blank" class="footer-follow-link-tw" rel="nofollow noopener norefferer"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512" aria-label="twitter" role="img"><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></a>
+							</span>
+						</div> 
+					</div>
+                </div>
+                <div class="footer-copyright">
+                    <span class="footer-copyright-text">&copy; 2024 WebsitePlanet.com. All Rights Reserved.</span>
+                </div>
+			</footer>
+		</div>
+
+<script type="text/javascript">var currencyObject = {"values":{"ARS":{"value":834.549968,"symbol":"AR$"},"AUD":{"value":1.531605,"symbol":"AU$"},"BRL":{"value":4.969698,"symbol":"R$"},"BGN":{"value":1.81609,"symbol":"\u043b\u0432."},"CAD":{"value":1.347335,"symbol":"C$"},"CLP":{"value":968.40318,"symbol":"CL$"},"CNY":{"value":7.164903,"symbol":"\u5143"},"COP":{"value":3909.42,"symbol":"\u200eCP$"},"CZK":{"value":23.602989,"symbol":"K\u010d"},"DKK":{"value":6.918601,"symbol":"kr"},"EGP":{"value":30.906903,"symbol":"E\u00a3"},"EUR":{"value":0.928045,"symbol":"\u20ac"},"HKD":{"value":7.821795,"symbol":"HK$"},"HRK":{"value":7.030095,"symbol":"kn"},"HUF":{"value":360.994496,"symbol":"Ft"},"INR":{"value":83.01225,"symbol":"\u20b9"},"IDR":{"value":15632,"symbol":"Rp"},"ILS":{"value":3.606585,"symbol":"\u20aa"},"JPY":{"value":150.193498,"symbol":"\u00a5"},"JOD":{"value":0.709105,"symbol":"\u062f.\u0623"},"KRW":{"value":1332.795021,"symbol":"\u20a9"},"MXN":{"value":17.04863,"symbol":"Mex$"},"TWD":{"value":31.31979,"symbol":"NT$"},"NZD":{"value":1.636005,"symbol":"NZ$"},"NOK":{"value":10.51316,"symbol":"kr"},"PLN":{"value":4.024862,"symbol":"z\u0142"},"GBP":{"value":0.794131,"symbol":"\u00a3"},"RON":{"value":4.618704,"symbol":"L"},"RUB":{"value":92.279677,"symbol":"\u200e\u20bd"},"SAR":{"value":3.7504,"symbol":"\u200e\u0631.\u0633"},"ZAR":{"value":18.87175,"symbol":"\u200eR"},"SGD":{"value":1.345802,"symbol":"\u200eS$"},"SEK":{"value":10.45046,"symbol":"kr"},"CHF":{"value":0.880699,"symbol":"CHf"},"THB":{"value":36.036501,"symbol":"&#3647;"},"TRY":{"value":30.82799,"symbol":"\u20ba"},"AED":{"value":3.67287,"symbol":"\u062f.\u0625"},"UAH":{"value":38.079549,"symbol":"\u20b4"},"VND":{"value":24530,"symbol":"\u20ab"},"USD":{"value":1,"symbol":"$"}},"countries":{"ARS":["AR"],"AUD":["AU","KI","NR","TV","CX","CC","NF"],"BRL":["BR"],"BGN":["BG"],"CAD":["CA"],"CLP":["CL"],"CNY":["CN"],"COP":["CO"],"CZK":["CZ"],"DKK":["DK","GL"],"EGP":["EG"],"EUR":["AD","AT","BE","CY","EE","FI","FR","DE","GR","IE","IT","XK","LV","LT","LU","MT","MC","ME","NL","PT","SM","SK","SI","ES","VA","AX","GF","PF","GP","MQ","YT","RE","BL","MF","PM"],"HKD":["HK"],"HRK":["HR"],"HUF":["HU"],"INR":["IN"],"IDR":["ID"],"ILS":["IL"],"JPY":["JP"],"JOD":["JO"],"KRW":["KR"],"MXN":["MX"],"TWD":["TW"],"NZD":["NZ","NU","TK","PN"],"NOK":["NO","SJ"],"PLN":["PL"],"GBP":["GB","GS","SH"],"RON":["RO"],"RUB":["RU"],"SAR":["SA"],"ZAR":["ZA"],"SGD":["SG"],"SEK":["SE"],"CHF":["CH","LI"],"THB":["TH"],"TRY":["TR"],"AED":["AE"],"USD":["US","EC","SV","PW","PA","PR","ZW","AS","BQ","IO","VG","GU","MH","FM","MP","TL","T\u0421","VI","WK","WK"],"UAH":["UA"],"VND":["VN"]}};</script><script data-cfasync="false" src="https://www.websiteplanet.com/wp-content/uploads/static/footer-6243-3a4695da1ca35f82dbbbadfb3744a960.min.js"></script><script>dataAloomaIds.serverPageData = {title:"Web Tools Directory: 20+ Free Tools to Improve your Website",id:"1884387",lang:"en",type:"page"};</script><!-- NON TRANSLATED popup START -->
+<div id="popup-non-translated">
+    <div class="popup-non-translated-container">
+    	<span id="popup-non-translated-close"></span>
+		<div class="popup-non-translated-content">
+           <div class="popup-non-translated-title">This page isn't yet translated into <span id="popup-non-translated-lang"></span>. If you wish to volunteer and translate it, please contact us using the contact us page</div>
+        	<div class="popup-non-translated-buttons">
+				<a id="popup-non-translated-button-help" href="https://www.websiteplanet.com/contact-us/" target="_blank">Let me help</a>
+            	<div id="popup-non-translated-button-shame">Such a shame</div>
+			</div>
+        </div>
+    </div>
+</div>
+<!-- NON TRANSLATED popup END -->
+
+<script type="application/ld+json">[{"@context":"https:\/\/schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What are the most essential tools for web development?","acceptedAnswer":{"@type":"Answer","text":"<p>All web tools included on our list serve an important function, but if you\u2019re pressed for time, these are the ones you should consider first: <\/p>\n<ul>\n<li><strong>The PNG\/JPG compressor<\/strong> can help you optimize your images and drastically improve page loading times.<\/li>\n<li><strong>The JS &amp; CSS minifier<\/strong> serves a similar function, and is just as easy to use.<\/li>\n<li><strong>Our SSL checker<\/strong> tests whether your website is padlock protected in a matter of seconds.<\/li>\n<li><strong>Our Responsive checker<\/strong> helps you ensure that your website looks good on both mobile and desktop screens.<\/li>\n<li><strong>The Robots.TXT checker<\/strong> and <strong>the SiteMap validator<\/strong> are essential tests for SEO purposes.<\/li>\n<\/ul>\n<p> Most of these tools will not only assess your website, but also provide actionable feedback that you can use to improve it.<\/span><\/p>\n"}},{"@type":"Question","name":"What types of tools do you feature on your website?","acceptedAnswer":{"@type":"Answer","text":"<p>Our featured web tools are organized into four categories: <\/p>\n<ul>\n<li><strong>Webmaster tools<\/strong> help you manage your domains and improve the visibility of your website.<\/li>\n<li><strong>Performance tools<\/strong> include image and CSS compressors that boost your website\u2019s speed.<\/li>\n<li><strong>Operational tools<\/strong> like placeholder image and text generators enhance your workflow.<\/li>\n<li><strong>Design tools<\/strong> make it easier to build professional-looking websites without the help of an expert developer.<\/span><br \/>\n"}},{"@type":"Question","name":"Will you be updating this page with more tools?","acceptedAnswer":{"@type":"Answer","text":"<p>Absolutely. Our aim is to bring together the most effective web development tools that anyone can use to build, launch, and maintain a website. We will add more free services to this list as soon as they are vetted by our team of experts.<\/span><\/p>\n"}}]}]</script><script type="text/javascript">
+    var vm_js_erros = [];
+    window.addEventListener("error", function(event) {
+        // error handling code here!
+        console.log(event.error);
+        vm_js_erros.push({message: event.error, file: event.filename, line: event.lineno});
+    });
+
+    // window.onerror = function (message, file, line) {
+    //     vm_js_erros.push({message: message, file: file, line: line});
+    //     console.log(message, file, line); // do NOT do this for real!
+    // };
+
+    (function() {
+
+        var datadog_logger_inited = false;
+
+        function datadog_logger_init() {
+            if (datadog_logger_inited) {
+                return;
+            }
+            datadog_logger_inited = true;
+            DD_LOGS.init({
+                clientToken: 'pubae90c910f262c6a56887a7ef8bb5c378',
+                forwardErrorsToLogs: true,
+            });
+
+            // Send load saved before
+            for (var N = 0; N < vm_js_erros.length; N++) {
+                DD_LOGS.logger.error("JS: " + vm_js_erros[N].message + " in " + vm_js_erros[N].file + " : " + vm_js_erros[N].line, {
+                    status: "error",
+                    error: vm_js_erros[N]
+                });
+            }
+            //DD_LOGS.logger.debug('profiling', __vmProfilingData, 'debug');
+        }
+
+        function load_datadog(e) {
+            window.removeEventListener('scroll', load_datadog, false);
+            setTimeout(function () {
+                if (datadog_logger_inited) {
+                    return;
+                }
+
+                // adding the script tag to the head as suggested before
+                var head = document.getElementsByTagName('head')[0];
+                var script = document.createElement('script');
+                script.async = true;
+                script.type = 'text/javascript';
+                script.src = "https://www.datadoghq-browser-agent.com/datadog-logs-us.js";
+
+                // then bind the event to the callback function
+                // there are several events for cross browser compatibility
+                script.onreadystatechange = datadog_logger_init;
+                script.onload = datadog_logger_init;
+
+                // fire the loading
+                head.appendChild(script);
+            }, 800);
+
+        }
+        window.addEventListener('scroll', load_datadog, false);
+    })();
+</script> <script>
+ window.getLocData((countryCode) => {
+    const EU_countries_codes = [
+        "AT", // Austria
+        "BE", // Belgium
+        "BG", // Bulgaria
+        "HR", // Croatia
+        "CY", // Cyprus
+        "CZ", // Czech Republic
+        "DK", // Denmark
+        "EE", // Estonia
+        "FI", // Finland
+        "FR", // France
+        "DE", // Germany
+        "GR", // Greece
+        "HU", // Hungary
+        "IE", // Ireland
+        "IT", // Italy
+        "LV", // Latvia
+        "LT", // Lithuania
+        "LU", // Luxembourg
+        "MT", // Malta
+        "NL", // Netherlands
+        "PL", // Poland
+        "PT", // Portugal
+        "RO", // Romania
+        "SK", // Slovakia
+        "SI", // Slovenia
+        "ES", // Spain
+        "SE", // Sweden
+    ];
+    
+    const countryAttribute = countryCode.toUpperCase();
+        
+    // Check if the country attribute value exists in EU_countries_codes
+    if (!EU_countries_codes.includes(countryAttribute)) {
+        return;
+    }
+    
+    let script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'https://cdn.cookielaw.org/scripttemplates/otSDKStub.js';
+    script.defer = true;
+    script.setAttribute('data-domain-script', '018e0dcf-b998-7943-ae78-60e29849d514');
+    script.setAttribute('data-document-language', true);      
+    document.head.appendChild(script);
+});
+
+</script>	<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e4b2dce614","applicationID":"1110089297","transactionName":"b1MEYEJQWEFQU0MPXlYZJ1dEWFlcHkBWAVQVQQNWRF5ZXkI=","queueTime":0,"applicationTime":626,"atts":"QxQHFgpKS08=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
